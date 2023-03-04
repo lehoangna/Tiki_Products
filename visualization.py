@@ -2,6 +2,7 @@ import pymongo
 import pandas as pd
 import matplotlib.pyplot as plt
 import click
+import numpy as np
 
 categories_no_duplicates = []
 categories = []
@@ -37,22 +38,21 @@ prd = {
 }
 products_df = pd.DataFrame(prd)
 
-for i in categories_no_duplicates[:5]:
-    products_df_by_cate = products_df.loc[products_df['categories'] == i, :]
-    products_df_by_cate = products_df_by_cate.sort_values(by=['prices'])
-    fig, ax1 = plt.subplots()
-    ax2 = ax1.twinx()
-    ax1.scatter(products_df_by_cate['prices'], products_df_by_cate['rating'], label='rating', s=25)
-    ax2.scatter(products_df_by_cate['prices'], products_df_by_cate['quantity'], color=['red'], label='quantity', s=25)
-    ax1.set_xlabel("Price")
-    ax1.set_ylabel("Rating")
-    ax2.set_ylabel("Quantity")
-    plt.legend()
-    plt.title(i)
-    ax1.legend(loc=0)
-    fig.show()
+for i in categories_no_duplicates:
+    products_df['round_price'] = (np.round(products_df['prices'] / 100000) * 100000).astype(int)
+    temp = products_df.loc[products_df['categories'] == i]
+    re = temp.groupby('round_price', as_index=False)['quantity', 'rating'].mean()
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(re['round_price'], re['quantity'])
+    plt.plot(re['round_price'], re['rating'] * 100)
+    plt.legend(['Quantity', 'Rating 100:1'], fontsize=20)
+    plt.grid(True)
+    plt.title(i, fontsize=20)
+    plt.xlabel('price(milion)', fontsize=14)
+    plt.show()
     if click.confirm('Do you want to continue?', default=True):
-        plt.close(fig=fig)
+        plt.close()
     else:
-        plt.close(fig=fig)
+        plt.close()
         break
