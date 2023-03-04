@@ -12,6 +12,7 @@ for product in products:
     category_list = product['productset_group_name'].split('/')
     for i in range(0,len(category_list)):
         category = category_list[i]
+        if(category=='NGON'): category = 'Tiki Ngon'
         if category in product_by_category:
             product_by_category[category] += 1
         else:

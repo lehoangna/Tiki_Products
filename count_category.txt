@@ -1,853 +1,2237 @@
-Đồ Chơi - Mẹ & Bé: 2000
-Chăm sóc nhà cửa: 490
-Giặt giũ & Chăm sóc quần áo: 122
-Nước xả vải: 29
-Đồ dùng cho bé: 309
-Đồ dùng vệ sinh cho bé: 122
-Phấn, Kem dưỡng, Nước hoa: 19
-Phấn rôm cho bé: 5
-Đồ chơi: 433
-Đồ chơi vận động: 28
-Xe đạp trẻ em: 2
-Tã, Bỉm: 226
-Tã quần: 89
-Dinh dưỡng cho người lớn: 63
-Nước giặt: 66
-Khăn giấy ướt cho bé: 38
-Tã dán: 48
-Dinh dưỡng cho bé: 260
-Sữa bột cho bé: 167
-Sữa cho bé trên 24 tháng: 104
-Sữa cho bé dưới 24 tháng : 54
-Sản phẩm chăm sóc áo quần khác: 19
-Vệ sinh nhà tắm: 58
-Bộ sản phẩm vệ sinh nhà cửa: 57
-Vệ sinh nhà cửa: 129
-Giấy vệ sinh: 16
-Vệ sinh nhà bếp: 155
+Đồ Chơi - Mẹ & Bé: 1998
+Chăm sóc nhà cửa: 494
+Giặt giũ & Chăm sóc quần áo: 123
+Nước giặt: 63
+Tã, Bỉm: 227
+Khăn giấy ướt cho bé: 46
+Tã quần: 82
+Tã dán: 47
+Dinh dưỡng cho bé: 241
+Sữa bột cho bé: 155
+Sữa cho bé trên 24 tháng: 89
+Nước xả vải: 31
+Sữa cho bé dưới 24 tháng : 57
+Vệ sinh nhà tắm: 55
+Bộ sản phẩm vệ sinh nhà cửa: 54
+Vệ sinh nhà bếp: 158
 Nước rửa chén: 62
-Khăn giấy: 26
-Khăn giấy khô: 26
-Sản phẩm tẩy đa năng: 74
-Sữa công thức pha sẵn: 12
-Sữa tắm cho bé: 36
-Tã bỉm dành cho người lớn: 36
-Boardgame: 47
-Lắp ghép, Xếp hình: 108
+Vệ sinh nhà cửa: 135
+Giấy vệ sinh: 16
+Sản phẩm chăm sóc áo quần khác: 20
+Sữa công thức pha sẵn: 9
+Dinh dưỡng cho người lớn: 58
+Khăn giấy: 27
+Khăn giấy khô: 27
+Sản phẩm tẩy đa năng: 75
+Tã bỉm dành cho người lớn: 35
+Đồ dùng cho bé: 340
+Đồ dùng vệ sinh cho bé: 129
+Sữa tắm cho bé: 30
+Diệt côn trùng: 68
+Đồ chơi: 462
+Boardgame: 46
+Đồ dùng ăn uống cho bé: 88
+Phụ kiện bình sữa: 8
+Túi giữ nhiệt (bình sữa: 5
+bình nước): 5
 Lều thảm: 20
-Thảm nằm chơi: 19
-Diệt côn trùng: 64
-Tã giấy: 5
-Nước lau sàn: 19
-Bánh ăn dặm: 18
-Chăm sóc mẹ mang thai, sau sinh: 53
-Phụ kiện cho mẹ: 24
-Túi đựng đồ cho mẹ: 4
-Đồ dùng đi chơi: 29
+Thảm nằm chơi: 18
+Lắp ghép, Xếp hình: 110
+Đồ dùng đi chơi: 31
 Địu, Đai an toàn: 13
-Địu: 11
-Gối đa năng cho mẹ: 9
-Bột giặt: 8
-Đồ dùng phòng ngủ cho bé: 36
-Chăn ga gối nệm, Mùng: 17
+Địu: 10
+Tã giấy: 5
+Nước lau sàn: 21
+Chăm sóc mẹ mang thai, sau sinh: 61
+Phụ kiện cho mẹ: 28
+Túi đựng đồ cho mẹ: 4
+Miếng lót sơ sinh: 12
+Đồ dùng phòng ngủ cho bé: 42
+Chăn ga gối nệm, Mùng: 16
 Gối: 8
-Nước rửa bình sữa: 10
-Vitamins: 22
-Cờ: 25
-Đồ chơi giáo dục: 26
-Hướng nghiệp nhập vai: 12
-Đồ chơi gỗ: 46
+Gối đa năng cho mẹ: 9
+Đồ chơi giáo dục: 28
+Hướng nghiệp nhập vai: 13
+Thể Thao - Dã Ngoại: 2001
+Phụ kiện thể thao: 322
+Phụ kiện thể thao khác: 112
+Đồ chơi gỗ: 44
 Xếp khối: 19
-Miếng lót sơ sinh: 10
-Đồ dùng ăn uống cho bé: 79
-Máy tiệt trùng, hâm sữa: 22
-Máy tiệt trùng: 8
-Xe tập đi: 5
-Sữa cho mẹ bầu và sau sinh: 3
-Thực phẩm ăn dặm: 7
-Khử mùi, sáp thơm: 47
-Búp bê, Thú bông: 37
-Thú bông: 32
-Thời Trang Cho Mẹ Và Bé: 139
-Thời trang bé gái: 42
-Trang phục bé gái: 21
-Đầm bé gái: 9
+Bánh ăn dặm: 13
+Vitamins: 21
+Cờ: 29
 Sách vải: 4
-Kem dưỡng da: 9
+Nước rửa bình sữa: 9
+Xe tập đi: 5
+Búp bê, Thú bông: 37
+Thú bông: 34
+Thực phẩm ăn dặm: 8
+Máy tiệt trùng, hâm sữa: 24
+Máy tiệt trùng: 11
 Chuẩn bị mang thai: 3
 Que thử thai: 3
-Trò chơi trí tuệ: 19
-Dụng cụ tắm cho bé: 27
-Bông tắm cho bé: 10
-Bột ăn dặm: 17
-Đệm, Lót chống thấm cho bé: 6
-Đồ dùng bảo vệ bé: 22
-Thanh chắn cầu thang: 2
-cửa: 2
-Vệ sinh răng miệng cho bé: 9
-Kem đánh răng: 35
-Đồ chơi điều khiển: 12
-Xe điều khiển và phụ kiện: 12
-Đồ chơi mô hình: 42
-Xe mô hình: 32
+Phấn, Kem dưỡng, Nước hoa: 21
+Phấn rôm cho bé: 4
+Khử mùi, sáp thơm: 49
+Thời Trang Cho Mẹ Và Bé: 138
+Thời trang bé gái: 42
+Trang phục bé gái: 21
+Đầm bé gái: 10
+Kem dưỡng da: 11
+Dụng cụ chăm sóc sức khỏe: 20
+Nhiệt kế cho bé: 5
+Trò chơi trí tuệ: 20
+Dinh dưỡng cho mẹ: 16
 Giặt xả quần áo: 6
-Núm ti: 11
-Phụ kiện cho bé: 55
-Phụ kiện cho bé khác: 16
+Bột ăn dặm: 17
+Dầu gội cho bé: 4
+Đệm, Lót chống thấm cho bé: 6
+Nước hoa: 96
+Dụng cụ tắm cho bé: 34
+Bông tắm cho bé: 13
+Đồ dùng bảo vệ bé: 28
+Thanh chắn cầu thang: 3
+cửa: 3
 Dụng cụ chặn & bịt góc: 16
 Bịt cạnh và góc bàn: 13
-Dụng cụ chăm sóc sức khỏe: 21
-Nhiệt kế cho bé: 6
-Dinh dưỡng cho mẹ: 17
-Bình sữa, Bình tập uống: 21
-Bình sữa: 21
-Dụng cụ hỗ trợ mẹ sau sinh: 10
-Máy hâm sữa: 14
-Tranh ghép: 8
-Mũ chắn nước gội đầu cho bé: 2
-Nón cho bé: 7
-Chăm sóc móng tay cho bé: 3
-Dụng cụ hút mũi cho bé: 6
-Máy hút sữa, Túi trữ sữa: 25
-Túi trữ sữa: 11
+Máy hút sữa, Túi trữ sữa: 27
+Túi trữ sữa: 13
+Phụ kiện cho bé: 65
+Phụ kiện cho bé khác: 16
+Vệ sinh răng miệng cho bé: 11
+Kem đánh răng: 34
+Dụng cụ hỗ trợ mẹ sau sinh: 12
+Tranh ghép: 7
+Máy hâm sữa: 13
+Đồ chơi điều khiển: 12
+Xe điều khiển và phụ kiện: 11
+Đồ chơi mô hình: 46
+Xe mô hình: 37
+Dung dịch tắm gội, Chăm sóc da: 3
+Mỹ phẩm, Chăm sóc da cho mẹ: 2
+Đồ chơi thủ công: 7
+Bình sữa, Bình tập uống: 19
+Bình sữa: 19
+Dụng cụ hút mũi cho bé: 5
+Quần, Váy bé gái: 4
+Bột giặt: 6
+Khăn tắm, Áo choàng: 14
+Đồ chơi vận động: 30
+Đồ chơi vận động mô phỏng: 7
+Phụ kiện tóc cho bé: 13
+Đai đi xe máy: 3
+Núm ti: 12
+Ghế tắm, Kệ đỡ tắm: 3
+Thẻ flash card: 10
 Xe đẩy: 8
 Xe đẩy đơn: 7
-Quần, Váy bé gái: 4
-Thực phẩm chế biến sẵn: 19
-Spinner: 4
-Đồ bộ bé gái: 18
-Đồ chơi vận động mô phỏng: 6
-Dung dịch tắm gội, Chăm sóc da: 2
-Mỹ phẩm, Chăm sóc da cho mẹ: 2
-Yếm, khăn cho bé: 5
-Đai đi xe máy: 2
-Ghế tắm, Kệ đỡ tắm: 3
-Nôi, Giường cũi, Võng : 10
-Nôi chơi: 1
-Thời trang sơ sinh: 17
+Sữa cho mẹ bầu và sau sinh: 6
+Chăm sóc móng tay cho bé: 3
+Thời trang sơ sinh: 18
 Phụ kiện thời trang sơ sinh: 5
 Bao tay, chân, Nón, Vớ: 5
-Đồ chơi ảo thuật: 6
-Bô vệ sinh, Bệ ngồi toilet: 10
-Trà và Thức uống cho bé: 4
-Khác: 12
-Phụ kiện bình sữa: 7
-Túi giữ nhiệt (bình sữa: 2
-bình nước): 2
-Dầu gội cho bé: 2
+Spinner: 6
+Đồ chơi ảo thuật: 7
+Thực phẩm chế biến sẵn: 19
+Bô vệ sinh, Bệ ngồi toilet: 12
+Khác: 89
+Đồ bộ bé gái: 18
 Bảo vệ an toàn điện: 3
-Đồ chơi thủ công: 7
-Khăn tắm, Áo choàng: 13
-Ngậm nướu: 4
-Phụ kiện tóc cho bé: 14
-Thẻ flash card: 9
-Nôi: 4
-Nơ, Cà vạt, Thắt lưng, Vớ, Bao tay : 9
+Trà và Thức uống cho bé: 4
+Yếm, khăn cho bé: 5
+Nôi, Giường cũi, Võng : 12
+Nôi: 5
+Mũ chắn nước gội đầu cho bé: 3
+Nơ, Cà vạt, Thắt lưng, Vớ, Bao tay : 7
+Nôi chơi: 1
+Chong chóng: 3
+Xe scooter: 4
+Ghế ăn: 5
 Lưới bọc quạt: 2
+Máy hút sữa: 9
 Máy đưa nôi: 3
 võng: 3
-Máy hút sữa: 11
-Thời trang bé trai: 20
+Thời trang bé trai: 19
 Trang phục bé trai: 16
-Áo bé trai: 6
-Kem chống hăm: 3
-Dầu Tràm: 6
+Áo bé trai: 5
+Kem chống hăm: 2
+Ngậm nướu: 4
 Khăn ăn: 2
-Mô hình nhân vật : 8
-Mùng: 6
-Ghế ăn: 6
-Miếng lót thấm sữa: 3
-Bộ sản phẩm chăm sóc quần áo: 6
-Đồ chơi sơ sinh: 4
-Bóp chíp xúc xắc: 2
-Lắp ráp: 4
-Lục lạc: 1
-Búp bê: 4
-Đồ bơi bé gái: 3
-Chong chóng: 4
-Xe chòi chân: 3
-Giày bé trai: 4
-Giày thể thao bé trai: 3
-Cọ rửa bình sữa: 2
-Nhà banh và Phụ kiện: 6
-Ba lô, Túi xách & Cặp cho bé: 4
-Balo In Hình: 4
-Đồ bơi bé trai: 2
-Áo khoác bé gái: 2
-Bộ áo liền quần: 2
-Quần áo sơ sinh: 10
-Dụng cụ vệ sinh: 1
-Bảng số: 1
-Bột nặn, Cát nặn: 3
-Bột nặn: 1
-Đồ lót bé trai: 3
-Phụ kiện bơi cho bé: 3
-Kệ chữ A: 1
-Súng bắn nước: 1
-Khóa bảo vệ các loại: 1
-Đồ chơi nhà tắm: 1
-Ngôi nhà búp bê: 1
-Xe đẩy du lịch: 1
-Nước rơ lưỡi và dụng cụ rơ lưỡi: 2
-Túi ngủ, Chăn cuốn cho bé: 3
+Miếng lót thấm sữa: 5
+Mùng: 5
+Lều trong nhà: 2
 Ghế ngồi ôtô, xe máy: 3
 Ghế đi xe máy: 3
-Áo khoác bé trai: 4
-Dầu massage: 2
-Giường cũi: 1
-Đồ lót & Đồ ngủ bé gái: 3
-Mũ bảo vệ, Vớ chống trượt, tập đi: 1
-Mũ bảo vệ đầu cho bé: 1
-Dụng cụ tập ăn: 2
-Đồ chơi nhạc cụ: 3
+Búp bê: 3
+Bộ sản phẩm chăm sóc quần áo: 5
+Đồ chơi sơ sinh: 5
+Lục lạc: 2
+Đồ bơi bé gái: 4
+Trang sức cho bé: 1
+Nệm: 11
+Ba lô, Túi xách & Cặp cho bé: 7
+Balo In Hình: 4
+Cọ rửa bình sữa: 1
+Nhà banh và Phụ kiện: 4
+Xe chòi chân: 3
+Đồ bơi bé trai: 2
+Ca, Thau tắm, Chậu tắm: 2
+Bộ áo liền quần: 2
+Nón cho bé: 7
+Quần áo sơ sinh: 10
+Dầu Tràm: 7
+Dụng cụ vệ sinh: 50
+Bảng số: 1
+Sữa tắm, Dầu gội cho mẹ: 1
+Phương pháp dân gian: 3
+Lá xông: 2
+Kệ chữ A: 2
+Mô hình nhân vật : 8
+Đồ lót bé trai: 4
+Phụ kiện bơi cho bé: 1
+Áo khoác bé gái: 1
+Súng bắn nước: 1
+Túi ngủ, Chăn cuốn cho bé: 3
+Đồ chơi nhà tắm: 1
+Khóa bảo vệ các loại: 1
+Nước rơ lưỡi và dụng cụ rơ lưỡi: 4
+Xe đẩy du lịch: 1
+Giày, dép cho bé: 1
+Giày bé trai: 3
+Giày thể thao bé trai: 2
+Mũ bảo vệ, Vớ chống trượt, tập đi: 2
+Mũ bảo vệ đầu cho bé: 2
 Chăn: 2
 mền: 2
-Nhạc cụ: 1
+Lắp ráp: 4
+Đồ lót: 3
+Dụng cụ tập ăn: 1
+Áo khoác bé trai: 3
+Giường cũi: 2
+Dầu massage: 3
+Xe lắc: 1
+Giá úp bình sữa: 2
+Khay: 2
 Giày bé gái: 3
 Giày búp bê bé gái: 1
-Xe lắc: 1
-Giá úp bình sữa: 3
-Khay: 3
-Giày, dép cho bé: 1
-Mô hình 3D: 2
-Lều trong nhà: 1
-Xe scooter: 1
-Băng vệ sinh cho mẹ sau sinh: 1
-Cát nặn: 2
+Đồ chơi nhạc cụ: 3
+Đồ lót & Đồ ngủ bé gái: 2
+Máy bay điều khiển và phụ kiện: 1
+Bóp chíp xúc xắc: 1
+Đồ ngủ bé trai: 2
 Thời trang bầu: 5
 Đồ bầu mặc nhà: 2
+Nón, vớ, giày, bao tay sơ sinh: 1
 Mô hình: 1
 Giày thể thao bé gái: 2
+Vali cho bé: 1
 Đồ bầu công sở: 3
 Quây cũi: 1
-Phương pháp dân gian: 1
-Túi chườm: 21
-Trang sức cho bé: 1
-Đồ ngủ bé trai: 1
-Nệm: 1
+Túi chườm: 18
 Giày lười & Xăng đan bé trai: 1
+Xe đạp trẻ em: 7
+Bột nặn, Cát nặn: 1
+Cát nặn: 1
+Balo Cao Cấp: 3
 Bàn chải đánh răng: 28
-Đai đỡ bụng bầu: 1
+Đèn ngủ: 10
+Mô hình 3D: 1
 Bình tập uống, Ly uống nước: 1
-Ca, Thau tắm, Chậu tắm: 1
-Bập bênh: 1
-Điện Thoại - Máy Tính Bảng: 880
-Điện thoại Smartphone: 535
-Máy tính bảng: 80
-Máy đọc sách: 62
-Điện thoại phổ thông: 78
-Điện thoại bàn: 125
-Làm Đẹp - Sức Khỏe: 1999
-Chăm sóc da mặt: 498
-Kem chống nắng: 62
-Chăm sóc tóc và da đầu: 190
-Dầu gội, dầu xả: 121
-Bộ dầu gội, xả: 35
-Chăm sóc cá nhân: 200
-Chăm sóc răng miệng: 117
-Bàn chải điện: 11
-Thiết bị chăm sóc răng: 18
-Dụng cụ làm đẹp: 184
-Dao - Máy cạo râu & Hớt tóc: 69
-Dầu Gội: 79
-Máy Massage & Thiết bị chăm sóc sức khỏe: 185
+Điện Thoại - Máy Tính Bảng: 865
+Máy tính bảng: 76
+Điện thoại Smartphone: 514
+Máy đọc sách: 59
+Điện thoại phổ thông: 79
+Điện thoại bàn: 123
+Làm Đẹp - Sức Khỏe: 2230
+Chăm sóc cá nhân: 256
+Chăm sóc răng miệng: 153
+Bàn chải điện: 13
+Thiết bị chăm sóc răng: 20
+Dụng cụ làm đẹp: 191
+Dao - Máy cạo râu & Hớt tóc: 74
+Máy Massage & Thiết bị chăm sóc sức khỏe: 184
 Khẩu trang y tế: 53
-Thiết bị chăm sóc sức khỏe: 25
+Chăm sóc tóc và da đầu: 181
+Dầu gội, dầu xả: 115
+Dầu Gội: 83
+Thiết bị chăm sóc sức khỏe: 34
 Máy massage toàn thân: 52
-Mặt nạ: 30
-Hỗ trợ tình dục: 100
-Bao cao su: 82
-Kem và sữa dưỡng da: 104
-Sữa rửa mặt: 79
+Hỗ trợ tình dục: 101
+Bao cao su: 83
+Chăm sóc da mặt: 593
+Mặt nạ: 40
+Kem chống nắng: 69
 Gel bôi trơn: 18
-Thiết bị làm đẹp: 4
-Dụng cụ tạo kiểu tóc: 52
-Máy sấy tóc: 27
-Dung dịch vệ sinh: 30
-Chăm sóc cơ thể: 212
-Sữa tắm, xà bông, muối tắm: 61
-Bông tắm, sữa tắm & xà bông: 60
-Thực phẩm chức năng: 158
-Thực phẩm chức năng sức khỏe: 99
-Sức khỏe phái nam: 19
-Tẩy trang: 43
-Dụng cụ theo dõi sức khỏe: 31
-Máy đo huyết áp: 12
-Sản phẩm thiên nhiên & Khác: 109
+Thiết bị làm đẹp: 10
+Dụng cụ tạo kiểu tóc: 50
+Máy sấy tóc: 25
+Thực phẩm chức năng: 212
+Thực phẩm chức năng sức khỏe: 152
+Sức khỏe phái nam: 21
+Kem và sữa dưỡng da: 110
+Chăm sóc cơ thể: 225
+Sữa tắm, xà bông, muối tắm: 66
+Bông tắm, sữa tắm & xà bông: 61
+Sản phẩm thiên nhiên & Khác: 105
 Đèn xông: 18
+Dụng cụ theo dõi sức khỏe: 33
+Máy đo huyết áp: 13
+Tẩy trang: 45
 Nước súc miệng: 17
-Dưỡng Thể: 24
-Sữa dưỡng thể: 5
-Serum: 47
-Sản phẩm sạch khuẩn: 12
-Bộ chăm sóc da mặt: 19
-Chăm sóc giấc ngủ, stress và lo lắng: 1
-Sức khỏe phái nữ: 7
-Trị rạn nứt da: 9
-Sản phẩm trị mụn: 59
-Bộ chăm sóc tóc: 11
+Dung dịch vệ sinh: 25
+Sữa rửa mặt: 72
+Bộ dầu gội, xả: 25
+Tinh dầu: 77
+Bộ chăm sóc da mặt: 22
+Chăm sóc giấc ngủ, stress và lo lắng: 2
+Trị rạn nứt da: 12
 Sản phẩm thiên nhiên làm đẹp: 2
-Trang điểm : 79
-Trang điểm mặt: 18
-Phấn phủ: 3
+Sức khỏe phái nữ: 7
+Nước hoa nam: 35
+Chăm sóc hệ tiêu hóa: 12
+Sản phẩm trị mụn: 60
+Trang điểm : 77
+Son & Trang điểm môi: 32
+Son dưỡng: 16
+Sản phẩm sạch khuẩn: 11
+Nhiệt kế: 10
 Dưỡng tóc, ủ tóc: 27
 Serum, dầu dưỡng tóc: 18
-Nhiệt kế: 9
-Dao - Máy cạo râu: 19
-Tinh dầu: 80
-Son & Trang điểm môi: 32
-Son dưỡng: 17
-Cân sức khỏe: 24
-Sản phẩm khử mùi: 61
-Xịt toàn thân: 12
-Massage toàn thân: 2
-Tinh dầu massage: 1
+Dao - Máy cạo râu: 20
+Sản phẩm khử mùi: 58
+Lăn, xịt khử mùi: 45
+Dưỡng Thể: 26
+Sữa dưỡng thể: 7
+Trang điểm mặt: 29
 Phấn: 5
-Phấn nước: 9
-Lăn, xịt khử mùi: 49
-Dầu dừa: 4
+Phấn nước: 8
+Cân sức khỏe: 26
+Xịt toàn thân: 13
+Bộ chăm sóc tóc: 11
+Dầu dừa: 3
 Tạo kiểu tóc: 19
 Gel, sáp vuốt tóc: 15
+Phấn phủ: 4
+Sản Phẩm chăm sóc răng miệng - Unilever: 3
 Dụng cụ làm đẹp khác: 8
-Sản Phẩm chăm sóc răng miệng - Unilever: 4
-Tẩy tế bào chết: 24
-Sản phẩm tẩy lông: 11
-Chăm sóc hệ tiêu hóa: 11
-Thải độc: 4
+Sản phẩm tẩy lông: 10
 Máy uốn tóc: 7
-BB cream: 2
 Kem ủ tóc: 3
-Vitamin tổng hợp: 19
-Nước hoa hồng, toner: 23
-Hỗ trợ tiểu đường: 2
-Kiểm soát cân nặng: 13
-Giảm thèm ăn: 1
-Dụng cụ trang điểm: 10
-Gương trang điểm: 1
-Hỗ trợ não và trí nhớ: 13
+Máy ép, duỗi tóc: 8
+Serum: 42
 Son thỏi: 7
-Nước hoa: 55
-Nước hoa nam: 34
-Thực phẩm chức năng làm đẹp: 26
-Chăm sóc tóc và móng: 5
-Dưỡng trắng: 14
-Son dưỡng môi, trị thâm: 11
-Dầu Xả: 7
-Máy ép, duỗi tóc: 5
-Sản phẩm chăm sóc cá nhân khác: 25
+Nước hoa hồng, toner: 22
+Tẩy tế bào chết: 25
+Vitamin tổng hợp: 17
+BB cream: 2
+Hỗ trợ tiểu đường: 2
+Thải độc: 4
+Kiểm soát cân nặng: 14
+Giảm thèm ăn: 1
+Dụng cụ trang điểm: 11
+Gương trang điểm: 1
+Hỗ trợ não và trí nhớ: 11
+Thực phẩm chức năng làm đẹp: 29
+Chăm sóc tóc và móng: 6
+Son dưỡng môi, trị thâm: 10
 Che khuyết điểm: 1
-Bộ sản phẩm chăm sóc răng miệng: 10
-Kem tan mỡ: 5
+Dầu Xả: 5
+Bộ sản phẩm chăm sóc răng miệng: 8
+Chống lão hóa: 17
+Dưỡng trắng: 14
+Sản phẩm chăm sóc cá nhân khác: 36
+Sản phẩm chống nắng: 7
+Chống nắng dạng lotion: 5
+Dụng cụ tẩy lông: 15
 Trang điểm mắt: 7
-Kẻ chân mày: 1
-Chỉ nha khoa: 5
-Hỗ trợ xương khớp: 9
-Sản phẩm chống nắng: 6
-Chống nắng dạng lotion: 4
-Dụng cụ tẩy lông: 14
-Khăn giấy ướt: 1
 Mascara: 6
-Trang điểm môi: 12
-Son kem: 9
-Thiết bị khác: 9
-Băng vệ sinh: 20
-Chăm sóc móng: 12
-Dụng cụ làm móng: 10
-Xịt khoáng : 6
-Chống lão hóa: 16
+Hỗ trợ xương khớp: 12
+Trang điểm môi: 13
+Son kem: 10
+Massage toàn thân: 2
+Tinh dầu massage: 1
+Thiết bị khác: 17
+Chỉ nha khoa: 4
+Kem tan mỡ: 5
+Xịt khoáng : 9
 Tẩy trắng răng: 4
-Lược, băng đô: 11
-Bọt cạo râu: 2
-Máy, que thử đường huyết: 12
-Chăm sóc vùng da mắt: 7
-Nhíp, dao cạo: 5
-Phân giải mỡ: 10
+Lược, băng đô: 8
+Máy, que thử đường huyết: 11
+Thực phẩm chức năng thiên nhiên: 16
+Mật ong: 6
+Chăm sóc vùng da mắt: 5
+Băng vệ sinh: 21
+Máy & Dụng cụ rửa mặt : 5
+Phân giải mỡ: 11
+Nhíp, dao cạo: 4
+Khăn giấy ướt: 1
 Cọ, dụng cụ trang điểm: 4
 Dưỡng ẩm: 4
-Massage thư giãn và làm đẹp: 7
-Massage mặt: 4
-Trang điểm: 1
-Chăm sóc mắt: 5
-Keo xịt tóc: 3
-Thực phẩm chức năng thiên nhiên: 19
-Mật ong: 5
-Xịt dưỡng tóc: 3
-Máy & Dụng cụ rửa mặt : 3
-Nước hoa nữ: 21
-Máy đo nồng độ oxy máu: 1
-Tạo kiểu tóc khác: 1
-Đai lưng: 6
+Chăm sóc mắt: 6
+Trang điểm: 18
+Bọt cạo râu: 2
+Chăm sóc móng: 14
+Dụng cụ làm móng: 10
 Mặt nạ tóc: 2
-Thuốc nhuộm tóc: 12
+Massage thư giãn và làm đẹp: 8
+Massage mặt: 6
 Phấn nền, kem nền: 2
+Keo xịt tóc: 3
+Xịt dưỡng tóc: 3
+Nước hoa nữ: 21
+Thuốc nhuộm tóc: 9
 Nến thơm: 6
-Hỗ trợ thai sản: 3
-Hệ miễn dịch: 4
 Nghệ: 3
-Máy hút mụn: 2
 Bộ chăm sóc móng: 1
-Nhân sâm: 9
-Thực phẩm tăng cân: 2
+Tạo kiểu tóc khác: 1
+Nhân sâm: 6
+Máy đo nồng độ oxy máu: 1
+Tẩy tế bào chết, massage: 13
+Hệ miễn dịch: 4
+Đai lưng: 6
+Kẻ chân mày: 1
 Sản phẩm dưỡng tay, chân: 5
-Tẩy tế bào chết, massage: 7
-Kem ủ, dưỡng tóc khác: 1
-Tỏi đen: 2
-Máy xông mũi họng: 5
+Máy xông mũi họng: 3
 Thực phẩm chức năng khác: 1
+Hỗ trợ thai sản: 2
+Máy hút mụn: 4
 Kem massage: 1
-Làm sạch da mặt: 1
-Thiết Bị Y Tế: 7
-Săn chắc da: 1
 Bộ chăm sóc tóc và da đầu: 1
-Chăm sóc da mụn: 2
-Lô quấn tóc: 2
+Kem ủ, dưỡng tóc khác: 1
+Săn chắc da: 1
+Dung dịch vệ sinh nam nữ: 3
+Tim và huyết áp: 4
+Thực phẩm tăng cân: 16
+Thiết Bị Y Tế: 6
+Làm sạch da mặt: 4
 Sản phẩm chăm sóc cơ thể khác: 3
-Trắng da: 3
-Bộ chăm sóc toàn thân: 2
-Bộ chăm sóc tóc và cơ thể: 1
-Dung dịch vệ sinh nam nữ: 1
+Chăm sóc da mụn: 2
+Tỏi đen: 1
 Chăm sóc ngực: 1
 Sản phẩm làm hồng nhũ hoa: 1
-Bộ chăm sóc cơ thể: 2
+Bộ chăm sóc toàn thân: 4
+Bộ chăm sóc tóc và cơ thể: 3
+Tiki Ngon: 9303
+Rau củ quả: 2001
+Rau xanh, rau tươi: 766
 Kem lót: 1
 Chống nắng dạng kem: 2
-Làm thon gọn cơ thể: 3
 Sản phẩm chăm sóc da mặt khác: 1
 Sản phẩm thiên nhiên: 1
-Bộ dụng cụ, phụ kiện làm móng: 1
 Bộ sản phẩm chăm sóc cơ thể: 1
-Tim và huyết áp: 2
-Thể Thao - Dã Ngoại: 1
-Dụng cụ - thiết bị tập thể thao: 1
-Xà đơn: 1
-Điện Gia Dụng: 2000
-Đồ dùng nhà bếp: 1163
-Bình đun siêu tốc: 117
-Thiết bị gia đình: 837
-Máy lọc nước: 173
-Máy lọc nước có điện : 27
-Nồi điện các loại: 388
-Nồi chiên: 120
-Máy hút bụi: 152
-Hút bụi cầm tay: 89
-Bếp các loại: 144
-Bếp điện từ: 45
+Lô quấn tóc: 2
+Bộ dụng cụ, phụ kiện làm móng: 1
+Làm thon gọn cơ thể: 2
+Máy xông da mặt: 1
+Trắng da: 2
+Kem dưỡng da & Serum khác: 1
+Bộ chăm sóc cơ thể: 1
+Điện Gia Dụng: 1999
+Đồ dùng nhà bếp: 1167
+Bình đun siêu tốc: 126
+Thiết bị gia đình: 877
+Máy hút bụi: 174
+Hút bụi cầm tay: 96
+Nồi điện các loại: 375
+Nồi chiên: 111
+Máy xay, máy ép: 231
+Máy vắt cam: 16
+Bếp các loại: 149
+Bếp điện từ: 47
 Bếp điện từ đơn: 30
-Bếp hồng ngoại: 19
-Bếp hồng ngoại đơn: 19
-Nồi cơm điện: 120
-Nồi cơm điện tử: 54
-Máy sấy chén: 10
-Bàn ủi, bàn là: 81
-Bàn ủi hơi nước: 61
-Hút bụi gia đình: 25
-Máy xay, máy ép: 230
-Máy xay thịt: 55
+Bếp hồng ngoại: 21
+Bếp hồng ngoại đơn: 21
+Nồi cơm điện: 110
+Nồi cơm điện tử: 48
+Máy xay thịt: 56
 Nồi đa năng: 32
-Phụ kiện máy lọc nước: 123
-Bàn ủi khô: 8
-Máy làm sữa đậu nành: 22
-Nồi cơm nắp gài: 43
-Robot hút bụi: 18
-Bếp điện từ đôi: 15
-Bàn ủi hơi nước đứng: 12
-Lò nướng điện: 22
-Lò nướng bánh mì sandwich: 5
-Quạt điện: 195
-Quạt mini: 45
-Máy sấy thực phẩm: 6
-Máy lọc không khí: 70
-Máy xay sinh tố: 54
+Bàn ủi, bàn là: 92
+Bàn ủi hơi nước: 61
+Máy lọc nước: 169
+Phụ kiện máy lọc nước: 124
+Bàn ủi khô: 9
+Nồi cơm nắp gài: 41
+Bếp điện từ đôi: 17
+Lò nướng điện: 19
+Lò nướng bánh mì sandwich: 4
+Robot hút bụi: 21
+Máy xay cầm tay: 36
+Máy ép trái cây: 46
+Quạt điện: 194
+Quạt mini: 41
+Bình thủy điện: 15
+Bàn ủi hơi nước đứng: 11
+Máy lọc không khí: 66
+Vỉ nướng điện: 18
+Thiết bị sưởi ấm: 76
+Quạt sưởi: 15
+Lò nướng thùng: 13
+Máy hút chân không: 24
+Nồi hấp: 9
+Bếp gas: 70
+Bếp gas dương: 19
+Máy tạo ẩm: 27
+Máy xay ép đa năng: 9
+Nồi lẩu điện: 53
+Máy đánh trứng: 36
+Máy xay sinh tố: 52
 Máy xay sinh tố gia đình: 50
-Máy hút khói, khử mùi: 6
-Máy vắt cam: 15
-Nồi hấp: 8
-Thiết bị sưởi ấm: 75
-Quạt sưởi: 14
-Máy hút chân không: 26
-Cây Nước Nóng Lạnh: 20
-Máy ép trái cây: 47
-Lò nướng thùng: 14
-Máy xay cầm tay: 31
-Vỉ nướng điện: 16
-Máy tạo ẩm: 24
-Máy xay ép đa năng: 11
-Nồi lẩu điện: 52
-Lò vi sóng: 22
-Lò vi sóng điện tử: 6
-Bếp gas: 69
-Bếp gas dương: 17
+Quạt treo tường: 24
+Lò vi sóng: 23
 Lò vi sóng có nướng: 4
-Lò vi sóng cơ: 11
-Đồ dùng nhà bếp khác: 26
-Máy xay cắt đa năng: 17
-Máy pha cà phê: 42
-Máy pha cà phê gia đình: 26
-Máy đánh trứng: 33
-Nồi tiềm, nồi nấu cháo: 31
-Quạt Đứng: 37
-Nồi áp suất: 24
-Quạt treo tường: 26
-Phụ kiện bếp gas: 21
-Phụ kiện máy hút bụi: 16
-Máy làm sữa chua: 3
-Máy làm bánh: 7
+Hút bụi gia đình: 25
+Quạt Đứng: 38
+Lò vi sóng điện tử: 6
+Lò vi sóng cơ: 12
+Máy lọc nước không điện: 10
+Đồ dùng nhà bếp khác: 36
+Máy xay cắt đa năng: 14
+Máy pha cà phê: 43
+Máy pha cà phê gia đình: 25
+Cây Nước Nóng Lạnh: 16
+Nồi tiềm, nồi nấu cháo: 35
+Phụ kiện máy hút bụi: 17
 Máy sưởi: 35
-Quạt sạc: 18
-Máy sấy quần áo: 13
+Phụ kiện bếp gas: 20
+Nồi áp suất: 23
 Đèn sưởi: 26
-Máy xay cà phê : 11
-Lò nướng thủy tinh: 3
-Bếp gas du lịch - bếp gas đơn: 26
-Quạt bàn: 18
-Bình thủy điện: 14
-Máy làm tỏi đen: 4
+Máy làm sữa đậu nành: 24
+Máy làm sữa chua: 5
+Máy sấy quần áo: 52
+Máy xay cà phê : 10
+Lò nướng thủy tinh: 2
+Máy lọc nước có điện : 21
+Bếp gas du lịch - bếp gas đơn: 24
+Quạt bàn: 14
+Quạt sạc: 15
+Đầu lọc nước tại vòi: 14
+Siêu sắc thuốc: 15
 Quạt lửng: 6
+Máy may, thêu, vắt sổ: 26
+Máy may cơ: 9
+Nồi cơm nắp rời: 12
 Máy hàn miệng túi: 9
-Máy may, thêu, vắt sổ: 24
-Máy may cơ: 12
-Đầu lọc nước tại vòi: 16
-Nồi cơm nắp rời: 13
-Máy may điện tử: 5
+Máy làm tỏi đen: 4
+Máy sấy thực phẩm: 4
+Máy làm bánh: 6
+Hút bụi công nghiệp: 5
+Máy may điện tử: 6
 Bếp lẩu, nướng: 6
-Bếp gas âm: 5
-Máy lọc nước không điện: 7
-Siêu sắc thuốc: 13
-Quạt hút, quạt thông gió: 15
-Hút bụi công nghiệp: 4
-Máy hút ẩm: 9
-Quạt trần: 13
-Máy xay sinh tố công nghiệp: 4
-Bếp điện kết hợp: 5
+Bếp gas âm: 7
+Quạt hút, quạt thông gió: 13
+Máy hút ẩm: 8
+Quạt trần: 15
 Quạt tháp: 7
-Phụ kiện máy pha cà phê: 2
+Bếp điện kết hợp: 5
+Cross Border - Hàng Quốc Tế: 283
+Ô tô, xe máy, xe đạp: 179
+Phụ kiện xe máy: 298
+Máy sấy chén: 9
+Quạt hộp: 2
+Phụ kiện máy pha cà phê: 4
+Máy hút khói, khử mùi: 4
 Máy làm kem: 2
-Quạt hơi nước, phun sương: 7
-Phụ kiện máy may, thêu, vắt sổ: 7
-Quạt hộp: 3
+Máy xay sinh tố công nghiệp: 2
+Quạt hơi nước, phun sương: 8
+Phụ kiện máy may, thêu, vắt sổ: 11
+Viên nén cà phê: 1
 Máy pha cà phê chuyên dụng: 3
-Máy sấy tay: 1
-Nồi cơm dung tích lớn: 1
-Nồi tiềm: 1
+Nồi tiềm: 2
 Lò vi sóng âm: 1
-Máy cắt thịt đông lạnh: 1
-Thời trang nữ: 1999
-Đồ lót nữ: 502
-Quần lót nữ: 298
-Quần ôm: 155
-Áo ngực: 185
-Áo không đệm - Bralette: 27
-Áo nâng ngực: 116
-Đồ ngủ - Đồ mặc nhà nữ: 259
-Đồ mặc nhà: 126
-Đồ bộ ngắn: 38
-Quần lót không đường may: 38
-Đồ lót tạo dáng: 70
-Quần nữ: 194
-Quần legging - tregging nữ: 20
-Thời trang trung niên: 23
-Đồ ngủ nữ: 133
-Đồ ngủ cosplay, gợi cảm: 46
-Áo khoác nữ: 242
-Áo khoác chống nắng nữ: 37
-Áo nữ: 321
-Áo thun nữ: 150
-Bộ đồ lót nữ: 13
-Quần shorts nữ: 43
-Quần lọt khe: 27
-Đầm nữ: 218
+Máy sấy tay: 1
+Thời trang nữ: 2045
+Đồ lót nữ: 519
+Quần lót nữ: 320
+Đồ lót tạo dáng: 78
+Quần lót không đường may: 39
+Quần ôm: 161
+Áo ngực: 182
+Áo nâng ngực: 121
+Quần nữ: 195
+Quần legging - tregging nữ: 21
+Quần shorts nữ: 45
+Thời trang trung niên: 17
+Quần lọt khe: 33
+Áo nữ: 322
+Áo thun nữ: 157
+Đầm nữ: 213
 Đầm suông: 85
-Áo thun - Áo khoác nỉ nữ: 71
-Áo crop-top: 19
-Trang phục bơi nữ: 37
-Đồ bơi hai mảnh: 20
-Áo khoác dạ nữ: 44
-Áo liền quần - Bộ trang phục: 117
-Áo dài: 45
-Đầm ngủ: 46
+Áo khoác nữ: 226
+Áo thun - Áo khoác nỉ nữ: 67
+Áo crop-top: 22
+Áo cardigan nữ: 28
+Trang phục bơi nữ: 33
+Đồ bơi hai mảnh: 18
+Áo không đệm - Bralette: 24
+Đồ ngủ - Đồ mặc nhà nữ: 258
+Đồ ngủ nữ: 133
+Đầm ngủ: 49
+Áo liền quần - Bộ trang phục: 115
+Áo dài: 48
+Đồ mặc nhà: 125
+Đồ bộ ngắn: 34
 Đồ bộ dài: 69
-Đầm Dáng Xòe: 70
-Áo khoác phao nữ: 26
-Quần jean nữ: 55
-Chân váy: 57
-Chân váy ngắn: 30
-Áo kiểu: 60
-Đồ bộ lửng: 19
-Áo sơ mi nữ: 78
-Áo khoác bomber jackets: 6
-Áo liền quần: 35
-Đầm dáng ôm: 42
-Áo cardigan nữ: 29
-Đồ đôi - Đồ gia đình: 11
-Đồ gia đình: 5
-Bộ quần áo ngủ: 22
-Bộ trang phục: 40
-Thời trang bầu và sau sinh: 15
-Đầm bầu: 6
-Quần ống rộng nữ: 28
-Chân váy dài: 25
-Đồ lót bầu: 4
-Quần tây nữ: 38
-Đầm dáng xòe: 13
-Áo vest, blazer nữ: 26
-Quần baggy nữ: 7
-Đồ bơi một mảnh: 9
-Đầm dự tiệc: 3
+Áo khoác phao nữ: 28
+Áo khoác dạ nữ: 38
+Áo liền quần: 32
+Áo sơ mi nữ: 75
+Chân váy: 65
+Chân váy ngắn: 36
+Quần tây nữ: 37
+Quần jean nữ: 51
+Bộ đồ lót nữ: 11
+Đồ bộ lửng: 22
+Đầm Dáng Xòe: 68
+Đầm dáng ôm: 39
+Áo khoác chống nắng nữ: 32
+Đồ đôi - Đồ gia đình: 13
+Đồ gia đình: 6
+Bộ trang phục: 37
+Thời trang bầu và sau sinh: 21
+Đầm bầu: 7
+Đồ ngủ cosplay, gợi cảm: 40
+Bộ quần áo ngủ: 23
+Quần ống rộng nữ: 29
+Chân váy dài: 27
+Đầm dáng xòe: 12
+Áo kiểu: 56
+Quần baggy nữ: 9
+Đồ lót bầu: 6
+Áo vest, blazer nữ: 25
+Đồ bơi một mảnh: 7
+Áo khoác bomber jackets: 4
+Đầm dự tiệc: 4
 Nịt bụng: 6
-Áo hai dây - Áo ba lỗ nữ: 14
-Bikini: 8
-Áo đôi: 7
+Áo hai dây - Áo ba lỗ nữ: 12
+Quần bầu: 6
+Áo đôi: 8
+Bikini: 7
+Đầm maxi: 3
+Áo khoác jeans nữ: 3
 Đầm công sở: 2
 Đầm Váy Nữ: 1
-Đầm maxi: 3
-Quần bầu: 4
-Áo khoác jeans nữ: 2
-Thời trang nam: 2001
-Áo nỉ - Áo len nam: 48
-Áo nỉ nam: 13
+Áo bầu: 2
+Quần yếm: 3
 Chân váy bút chì: 1
 Chân váy chữ A: 1
-Quần yếm: 3
-Áo bầu: 1
-Đồ lót nam: 261
-Quần lót nam: 243
-Áo thun nam: 514
-Áo thun nam ngắn tay có cổ: 148
-Quần nam: 494
-Quần thun nam: 112
-Quần thun nam ngắn: 111
-Áo thun nam ngắn tay không cổ: 252
-Quần kaki nam: 113
-Quần kaki nam dài: 61
-Áo vest - Áo khoác nam: 286
-Áo khoác gió: 139
-Áo sơ mi nam: 240
-Áo sơ mi nam tay ngắn: 84
+Thời trang nam: 2097
+Áo nỉ - Áo len nam: 47
+Áo nỉ nam: 11
+Đồ lót nam: 265
+Quần lót nam: 244
+Quần nam: 496
+Quần thun nam: 115
+Quần thun nam ngắn: 114
+Áo vest - Áo khoác nam: 285
+Áo khoác gió: 138
+Quần kaki nam: 108
+Quần kaki nam dài: 58
+Áo thun nam: 499
+Áo thun nam ngắn tay có cổ: 146
+Áo sơ mi nam: 245
+Áo sơ mi nam tay ngắn: 86
 Áo sơ mi nam tay ngắn họa tiết: 55
+Áo sơ mi nam tay dài: 156
+Áo sơ mi nam tay dài trơn: 56
+Áo thun nam ngắn tay không cổ: 242
 Quần jeans nam: 137
-Quần jeans nam dài: 102
-Áo sơ mi nam tay dài: 153
-Áo sơ mi nam tay dài trơn: 58
+Quần jeans nam dài: 105
 Áo khoác bomber nam: 29
-Áo hoodie nam: 53
-Áo hoodies nam vải nỉ: 45
-Quần jogger nam: 85
-Quần tây nam: 47
-Áo thun nam dài tay: 40
+Áo khoác da nam: 13
+Áo hoodie nam: 54
+Áo hoodies nam vải nỉ: 47
+Quần jogger nam: 86
+Quần tây nam: 50
+Áo thun nam ba lỗ: 33
+Áo khoác phao nam: 23
+Áo thun nam dài tay: 39
+Áo len dệt kim: 36
+Bộ vest nam: 15
 Quần kaki nam ngắn: 40
-Áo thun nam ba lỗ: 32
-Áo len dệt kim: 35
-Bộ vest nam: 16
-Áo sơ mi nam tay dài họa tiết: 68
-Bộ đồ lót nam: 18
-Áo khoác da nam: 11
-Đồ ngủ, đồ mặc nhà nam: 76
-Đồ mặc nhà nam - Bộ ngắn: 49
-Đồ mặc nhà nam - Bộ dài: 23
-Áo khoác jeans nam: 18
-Áo sơ mi nam tay ngắn trơn: 16
-Áo sơ mi nam cổ tàu: 3
-Áo khoác phao nam: 21
-Đồ bơi - Đồ đi biển nam: 14
-Áo khoác nỉ: 27
+Bộ đồ lót nam: 21
+Áo sơ mi nam tay dài họa tiết: 72
+Đồ ngủ, đồ mặc nhà nam: 78
+Đồ mặc nhà nam - Bộ ngắn: 48
+Đồ mặc nhà nam - Bộ dài: 25
+Áo sơ mi nam tay ngắn trơn: 18
+Đồ bơi - Đồ đi biển nam: 17
+Quần bơi - đi biển nam: 9
+Áo khoác jeans nam: 19
+Áo khoác nỉ: 23
 Quần thun nam dài: 1
-Quần jeans nam ngắn: 27
-Quần bơi - đi biển nam: 7
-Áo cardigan nam: 2
-Áo hoodies nam vải cotton: 4
-Quần áo nam trung niên: 7
-Áo nam trung niên: 5
 Quần áo nam kích cỡ lớn: 7
 Áo nam kích cỡ lớn: 1
+Áo hoodies nam vải cotton: 4
+Quần áo nam trung niên: 7
 Quần nam trung niên: 2
+Quần jeans nam ngắn: 25
+Áo nam trung niên: 5
 Quần nam kích cỡ lớn: 2
 Áo bơi - đi biển nam: 4
-Bộ quần áo nam kích cỡ lớn: 4
-Áo hoodies nam vải da cá: 1
+Áo sơ mi nam cổ tàu: 3
 Đồ đôi - Đồ gia đình nam: 1
-Giày - Dép nữ: 2000
-Phụ kiện giày: 213
-Vệ sinh giày: 149
-Giày Đế xuồng nữ : 75
-Dép - Guốc nữ: 508
-Dép đi trong nhà: 174
-Phụ kiện cho giày: 56
-Giày thể thao nữ: 363
-Giày thể thao cổ thấp: 333
-Miếng lót giày: 104
-Giày thể thao cổ cao: 30
-Dép quai ngang: 262
-Giày boots nữ: 149
-Giày boots nữ cổ ngắn: 115
-Giày sandals nữ: 162
-Giày sandals đế bằng: 152
-Giày sandals chiến binh: 3
-Giày cao gót: 291
+Bộ quần áo nam kích cỡ lớn: 4
+Áo cardigan nam: 2
+Giày - Dép nữ: 1999
+Phụ kiện giày: 218
+Phụ kiện cho giày: 57
+Vệ sinh giày: 156
+Giày thể thao nữ: 386
+Giày thể thao cổ thấp: 332
+Miếng lót giày: 111
+Dép - Guốc nữ: 505
+Dép đi trong nhà: 171
+Giày thể thao cổ cao: 31
+Dép quai ngang: 266
+Giày cao gót: 293
 Giày cao gót hở mũi: 112
-Giày lười nữ: 112
+Giày boots nữ: 142
+Giày boots nữ cổ ngắn: 112
+Giày boots nữ cổ cao: 30
+Giày sandals nữ: 162
+Giày sandals đế bằng: 153
+Giày sandals chiến binh: 1
+Giày lười nữ: 113
 Giày lười hở gót: 30
-Giày búp bê: 127
-Giày búp bê mũi nhọn: 15
-Giày bít mũi quai ngang: 82
-Dép xỏ ngón: 67
-Giày cao gót quai sau: 12
-Giày búp bê mũi tròn: 111
-Giày cao gót nhọn: 79
-Giày boots nữ cổ cao: 34
-Giày lười mũi nhọn: 70
+Giày Đế xuồng nữ : 73
+Giày búp bê: 130
+Giày búp bê mũi tròn: 114
+Dép xỏ ngón: 62
+Giày búp bê mũi nhọn: 14
+Giày bít mũi quai ngang: 85
 Giày cao gót sục: 6
-Giày sandals buộc dây: 1
+Giày lười mũi nhọn: 70
+Giày cao gót nhọn: 78
+Giày cao gót quai sau: 12
+Giày lười mũi vuông: 9
 Giày lười cao gót: 3
+Giày sandals buộc dây: 1
+Nhà Sách Tiki: 2003
+English Books: 251
+Fiction - Literature: 37
+Comics & Graphic Novels: 1
 Giày búp bê mũi vuông: 1
-Giày lười mũi vuông: 8
-Giày sandals xỏ ngón: 4
-Giày - Dép nam: 2000
-Phụ kiện giày nam: 348
-Giày thể thao nam: 614
-Giày thể thao nam cổ thấp: 512
-Giày sandals nam: 118
-Giày sandals nam quai ngang: 89
-Giày lười nam: 293
-Giày lười da nam: 188
+Giày sandals xỏ ngón: 5
+Giày - Dép nam: 1999
+Phụ kiện giày nam: 367
 Phụ kiện cho giày nam: 129
-Giày tây nam: 197
-Giày tây nam không dây: 96
-Giày thể thao nam cổ cao: 97
+Giày tây nam: 181
+Giày tây nam không dây: 93
+Giày lười nam: 288
+Giày lười da nam: 184
+Giày thể thao nam: 758
+Giày thể thao nam cổ thấp: 520
 Dép nam: 365
-Dép nam quai ngang: 294
-Giày tây nam có dây: 64
-Miếng lót giày nam: 64
+Dép nam quai ngang: 289
+Miếng lót giày nam: 66
+Giày tây nam có dây: 56
+Giày thể thao nam cổ cao: 101
+Dép nam xỏ ngón: 66
 Giày lười nhựa nam: 46
-Dép nam xỏ ngón: 62
+Củ, quả, măng tươi: 605
+Giày sandals nam: 107
+Giày sandals nam quai ngang: 82
 Giày boots nam: 65
-Giày boots nam cổ cao: 43
+Giày boots nam cổ cao: 45
 Giày lười vải nam: 45
+Dép nam đi trong nhà: 10
+Giày sandals nam quai chéo: 13
 Giày boots nam cổ thấp: 15
-Giày sandals nam quai chéo: 16
-Dép nam đi trong nhà: 9
-Túi thời trang nữ: 2000
-Túi tote nữ: 233
-Túi tote không khóa: 133
-Túi đeo chéo, túi đeo vai nữ: 842
-Túi đeo chéo dạo phố: 757
-Ví nữ: 438
+Túi thời trang nữ: 2003
+Ví nữ: 449
 Ví ngắn: 252
-Túi xách tay nữ: 433
-Túi xách to bản: 81
-Túi xách vừa và nhỏ: 349
-Ví dài: 183
-Túi đeo chéo công sở: 80
-Túi tote có khóa: 100
-Phụ kiện túi: 29
+Túi xách tay nữ: 442
+Túi xách to bản: 82
+Túi xách vừa và nhỏ: 357
+Ví dài: 194
+Túi đeo chéo, túi đeo vai nữ: 827
+Túi đeo chéo dạo phố: 751
+Túi tote nữ: 224
+Túi tote có khóa: 99
+Phụ kiện túi: 31
 Phụ kiện cài túi: 21
-Ví đi tiệc: 25
-Clutch da: 10
-Clutch ánh kim: 15
-Dây, quai đeo túi: 8
-Túi thời trang nam: 2000
-Túi đeo chéo nam: 910
-Túi xách công sở nam: 279
+Túi đeo chéo công sở: 71
+Túi tote không khóa: 125
+Ví đi tiệc: 27
+Clutch da: 11
+Clutch ánh kim: 16
+Dây, quai đeo túi: 10
+Túi thời trang nam: 2001
+Túi đeo chéo nam: 908
 Ví nam: 787
-Ví nam ngang: 511
-Ví nam đứng: 276
-Túi bao tử, túi đeo bụng: 24
-Balo và Vali: 2000
-Balo: 855
-Balo laptop: 194
-Balo nam: 156
-Vali, phụ kiện vali : 413
-Vali nhựa: 245
-Balo, cặp, túi chống sốc laptop: 376
-Túi chống sốc: 288
-Túi du lịch và phụ kiện: 356
-Balo du lịch, phượt: 67
-Balo nữ: 489
-Túi trống: 282
-Phụ kiện vali: 125
+Ví nam ngang: 507
+Ví nam đứng: 280
+Túi xách công sở nam: 280
+Túi bao tử, túi đeo bụng: 26
+Balo và Vali: 1998
+Balo: 846
+Balo nam: 153
+Balo laptop: 190
+Vali, phụ kiện vali : 416
+Vali nhựa: 242
+Balo, cặp, túi chống sốc laptop: 381
+Túi chống sốc: 292
+Túi du lịch và phụ kiện: 355
+Balo du lịch, phượt: 71
+Balo nữ: 487
+Túi trống: 277
 Balo dây rút: 16
-Cặp đựng laptop: 88
-Vali trẻ em: 14
-Vali vải: 29
+Phụ kiện vali: 125
+Cặp đựng laptop: 89
+Vali vải: 34
+Vali trẻ em: 15
+Nhà Cửa - Đời Sống: 2270
+Ngoài trời & sân vườn: 158
+Dụng cụ làm vườn: 32
+Dụng cụ làm vườn khác: 16
 Phụ kiện du lịch khác: 6
 Ví passport: 1
 Phụ kiện thời trang: 2000
 Phụ kiện thời trang nam: 484
-Tất, vớ nam: 104
-Vớ cổ ngắn nam: 57
-Mắt kính: 453
-Phụ kiện kính: 115
-Vớ cổ cao nam: 47
-Phụ kiện thời trang nữ: 1063
-Găng tay và váy chống nắng: 64
-Găng tay - Bao tay nữ: 54
-Găng tay nam: 79
-Kính mát: 178
-Kính mát nữ: 58
-Khăn - Tất - Vớ nữ: 293
-Vớ ngắn nữ: 89
-Thắt lưng, dây nịt nam: 177
-Dây thắt lưng - Dây nịt: 169
-Kính mát nam: 120
-Cài Áo: 70
-Nón nam: 95
-Nón lưỡi trai nam: 60
-Gọng kính: 139
-Gọng kính nữ: 53
-Thắt lưng - Dây nịt nữ và phụ kiện: 49
+Tất, vớ nam: 92
+Vớ cổ ngắn nam: 53
+Mắt kính: 467
+Phụ kiện kính: 114
+Vớ cổ cao nam: 39
+Kính mát: 181
+Kính mát nam: 125
+Thắt lưng, dây nịt nam: 178
+Dây thắt lưng - Dây nịt: 171
+Găng tay nam: 81
+Kính mát nữ: 56
+Phụ kiện thời trang nữ: 1055
+Găng tay và váy chống nắng: 63
+Găng tay - Bao tay nữ: 53
+Nón nam: 106
+Nón lưỡi trai nam: 64
+Cài Áo: 63
+Gọng kính: 148
+Gọng kính nữ: 57
+Khăn - Tất - Vớ nữ: 291
+Vớ ngắn nữ: 84
+Khăn choàng - Khăn tay nữ: 63
+Thắt lưng - Dây nịt nữ và phụ kiện: 48
 Thắt lưng nữ bản to: 6
-Khăn choàng - Khăn tay nữ: 57
-Khăn - Găng tay nam: 24
-Phụ kiện cưới: 39
-Phụ kiện tóc nữ: 381
-Phụ kiện tóc khác: 152
-Khẩu trang nữ: 73
-Gọng kính nam: 86
-Cột tóc: 136
-Cài tóc: 52
-Mặt thắt lưng: 8
+Khăn - Găng tay nam: 22
+Gọng kính nam: 91
+Phụ kiện tóc nữ: 366
+Phụ kiện tóc khác: 143
+Khẩu trang nữ: 70
+Phụ kiện cưới: 37
+Mặt thắt lưng: 7
+Cột tóc: 134
+Cài tóc: 51
 Vớ dài nữ: 74
-Thắt lưng nữ bản nhỏ: 43
-Nón len nam: 13
-Nón nữ: 104
-Nón lưỡi trai nữ: 23
+Nón nữ: 124
+Nón lưỡi trai nữ: 26
 Tóc giả và hình xăm: 63
-Hình xăm: 28
-Kính áp tròng: 20
-Nón chống nắng nữ: 35
-Dụng cụ uốn tóc và tạo kiểu: 16
-Nón tai bèo nữ: 15
-Băng đô: 22
+Hình xăm: 26
+Thắt lưng nữ bản nhỏ: 42
+Nón len nam: 15
+Kính áp tròng: 17
+Nón tai bèo nữ: 22
+Nón chống nắng nữ: 41
+Dụng cụ uốn tóc và tạo kiểu: 17
 Lược: 3
+Băng đô: 18
 Váy chống nắng: 10
-Nón snapback nam: 10
 Nón nửa đầu nữ: 5
-Tóc giả: 40
-Nón rộng vành nữ: 26
-Nón phớt cao bồi nam: 2
-Nón tai bèo nam - bucket nam: 3
-Nón rộng vành nam: 7
+Nón snapback nam: 10
+Nón rộng vành nữ: 30
+Tóc giả: 42
+Nón tai bèo nam - bucket nam: 8
+Nón rộng vành nam: 8
 Mắt kính trẻ em: 1
-Đồng hồ và Trang sức: 796
-Đồng hồ nam: 131
-Đồng hồ business nam: 72
-Đồng hồ thể thao nam: 38
-Phụ kiện đồng hồ: 118
-Dây đồng hồ: 70
-Trang sức: 478
-Vòng tay: 180
-Hộp đựng đồng hồ: 13
-Bộ trang sức: 13
-Pin đồng hồ: 22
-Đồng hồ trẻ em: 18
-Đồng hồ bé trai: 12
-Dây chuyền: 122
-Đồng hồ nữ: 51
-Đồng hồ thể thao nữ: 6
-Đồng hồ dây da: 18
-Đồng hồ thời trang, casual nam: 17
-Bông tai: 89
-Nhẫn: 74
-Đồng hồ dây kim loại: 27
-Dụng cụ sửa đồng hồ: 13
-Đồng hồ lộ máy: 4
-Đồng hồ bé gái: 6
+Nón phớt cao bồi nam: 1
+Đồng hồ và Trang sức: 2000
+Phụ kiện đồng hồ: 294
+Hộp đựng đồng hồ: 42
+Đồng hồ nam: 418
+Đồng hồ business nam: 181
+Đồng hồ thể thao nam: 106
+Dây đồng hồ: 186
+Pin đồng hồ: 36
+Trang sức: 1151
+Bộ trang sức: 35
+Vòng tay: 428
+Đồng hồ nữ: 158
+Đồng hồ thể thao nữ: 21
+Dây chuyền: 284
+Bông tai: 223
+Đồng hồ trẻ em: 41
+Đồng hồ bé trai: 32
+Đồng hồ dây kim loại: 58
+Đồng hồ dây da: 75
+Dụng cụ sửa đồng hồ: 30
+Đồng hồ thời trang, casual nam: 57
+Đồng hồ lộ máy: 16
+Nhẫn: 181
+Đồng hồ bé gái: 9
+Laptop - Máy Vi Tính - Linh kiện: 2000
+Thiết Bị Văn Phòng - Thiết Bị Ngoại Vi: 658
+Phần Mềm Máy Tính: 31
+Thiết Bị Mạng: 424
+Bộ Kích Sóng Wifi: 32
+Thiết Bị Phát Sóng Wifi: 135
+Router Wifi: 80
+Máy In - Photocopy: 86
+Máy In Laser: 31
+Thiết Bị Lưu Trữ: 346
+Ổ Cứng Di Động: 51
+Ổ Cứng HDD Di Động: 36
+USB Wifi: 47
+Màn Hình Máy Tính: 130
+Màn Hình Phổ Thông: 60
+Ổ Cứng SSD Di Động: 15
+Linh Kiện Máy Tính - Phụ Kiện Máy Tính: 522
+RAM Máy Tính: 75
+RAM Laptop: 35
+Máy Chiếu và Phụ Kiện Máy Chiếu: 37
+Máy chiếu: 22
+Màn Hình Gaming: 48
+USB: 98
+Ổ Cứng Gắn Trong: 97
+Ổ Cứng SSD: 78
+Mực In và Toner: 260
+Drums và Toner Cho Máy In Laser: 193
+RAM Desktop: 40
+Bộ Chia Mạng - Switch: 39
+Máy In Phun: 14
+Laptop: 25
+Macbook: 4
+Phụ Kiện Thiết Bị Mạng: 157
+Bộ Phát Wifi Di Động 3G: 39
+4G - Mifi: 39
+Card Mạng: 10
+Màn Hình Đồ Họa: 20
+Hệ Thống Tản Nhiệt: 48
+Keo - Pad Tản Nhiệt: 16
+Case Ổ Cứng- Hộp Đựng HDD Box - Dock Ổ Cứng: 83
+Ổ Cứng HDD: 19
+Phụ kiện máy chiếu: 21
+Linh Kiện Thay Thế Cho Laptop: 249
+Bàn Phím Thay Thế Laptop: 46
+Adapter Sạc Laptop: 112
+Ổ Đĩa Quang: 11
+Màn Hình Di Động: 2
+Access Point - Điểm Truy Cập: 8
+Nguồn Máy Tính: 24
+Quạt Tản Nhiệt: 32
+Máy Đếm Tiền: 10
+Bộ Chuyển Đổi - Transceivers: 8
+Mực In Màu: 50
+Linh Kiện Máy Tính Khác: 39
+Linh Kiện và Phụ Kiện Máy In: 20
+PC - Máy Tính Bộ: 25
+Máy Tính Để Bàn Lắp Ráp: 11
+Giấy In: 77
+Giấy In Hóa Đơn - Giấy In Tem: 57
+Máy Chấm Công: 8
+Thiết Bị Streaming và Capture Cards: 4
+Máy Scan Mã Vạch: 11
+Máy Tính All in one: 1
+Pin Thay Thế Laptop: 89
+Linh Kiện Thay Thế Laptop Khác: 2
+Laptop Truyền Thống: 19
+Bộ Lưu Điện - UPS: 10
+Máy Tính Bộ Thương Hiệu: 13
+Máy In Nhãn, Hóa Đơn: 18
+Bộ Vi Xử Lý CPU: 12
+Mở Rộng Mạng Qua Đường Điện - Powerline Ethernet: 1
+Giấy In Ảnh: 9
+Sound Card - Card Âm Thanh: 13
+Thiết Bị Lưu Trữ Qua Mạng NAS: 7
+Máy Scan Tài Liệu: 4
+Vỏ Case - Thùng Máy: 11
+KVM Switches - Switch HDMI: 3
+Mainboard - Board Mạch Chủ: 11
+Card Màn Hình - VGA: 9
+Thiết Bị Truyền Thông Hội Nghị: 4
+Đĩa Trắng - Băng Cuộn: 10
+Laptop 2 trong 1: 1
+Laptop Gaming: 1
+I: 3
+O Port Cards: 3
+Máy In Ảnh: 2
+Máy In Kim: 1
+Modem ADSL: 1
+Nhãn In: 6
+Ăng-Ten Mạng: 2
+Đồ dùng và thiết bị nhà tắm: 328
+Dụng cụ lau nhà: 53
+Chổi, cây lau nhà: 39
+Nội thất: 227
+Nội thất phòng khách: 63
+Kệ & Tủ: 46
+Sửa chữa nhà cửa: 180
+Dụng cụ sửa chữa khác: 75
+Dụng cụ nhà bếp: 353
+Nồi và chảo: 81
+Chảo các loại: 52
+Đồ dùng phòng ăn: 185
+Bình nước, bình giữ nhiệt & Phụ kiện: 87
+Bình giữ nhiệt: 71
+Trang trí nhà cửa: 89
+Trang trí nhà cửa khác: 8
+Đèn & thiết bị chiếu sáng: 183
+Bóng và linh kiện đèn: 17
+Bóng đèn: 12
+Dụng cụ & Thiết bị tiện ích: 215
+Pin và dụng cụ sạc pin: 55
+Pin tiểu, pin sạc: 49
+Dụng cụ lau nhà khác: 14
+Dụng cụ diệt chuột, côn trùng: 23
+Vợt muỗi: 7
+Ổ cắm, ổn áp, biến áp: 54
+Phụ kiện nhà bếp: 102
+Phụ kiện nhà bếp khác: 56
+Nồi các loại: 26
+Bàn chải, dụng cụ thông tắc, cọ rửa: 18
+Dụng cụ chứa đựng thực phẩm: 77
+Hộp đựng thực phẩm: 46
+Đồ dùng phòng ngủ: 137
+Gối, ruột gối, vỏ gối: 55
+Gối các loại: 36
+Dao, kéo và phụ kiện: 25
+Dụng cụ mài dao: 5
+Chăn, mền và phụ kiện: 19
+Đèn pin: 22
+Nội thất phòng học, làm việc: 81
+Nội thất phòng học, làm việc khác: 10
+Giá, móc, cây treo: 38
+Đèn diệt côn trùng: 11
+Phụ kiện giặt ủi: 67
+Cây lăn bụi: 3
+Ly, cốc & phụ kiện ly: 32
+Vòi nước và phụ kiện tưới cây: 16
+Kệ nhà tắm: 59
+Dụng cụ vệ sinh khác: 13
+Phụ kiện giặt ủi khác: 23
+Thùng rác, đồ hốt rác: 9
+Bàn ghế làm việc: 30
+Đèn bàn: 31
+Kệ giày: 3
+Thiết bị phòng tắm: 41
+Vòi nước các loại: 30
+Khăn: 36
+Bảo vệ nhà cửa: 33
+Chuông báo: 7
+Hũ, lọ đựng gia vị: 9
+Dụng cụ diệt côn trùng khác: 16
+Nội thất phòng ngủ: 64
+Tủ: 46
+Dụng cụ làm bánh: 13
+Cân nhà bếp: 10
+Dụng cụ xay, giã: 13
+Nội thất khác: 7
+Bàn làm việc: 2
+Kệ nhà bếp: 40
+Màng nhôm, giấy bạc bọc thực phẩm: 9
+Đồ thờ cúng: 32
+Hương, nhang: 13
+Móc treo, kẹp quần áo: 16
+Áo mưa, ô dù và phụ kiện đi mưa: 6
+Giá, kệ phơi quần áo: 16
+Kềm & Dũa các loại: 7
+Máy sạc pin: 6
+Máy xịt rửa và phụ kiện: 7
+Máy xịt rửa: 5
+Đồng hồ: 25
+Đồng hồ treo tường: 14
+Chậu, vòi rửa chén bát: 16
+Tủ, kệ sách: 28
+Túi giặt: 5
+Bình, ly uống cà phê và phụ kiện: 17
+Thiết bị điều khiển thông minh: 17
+Cờ lê, mỏ lết, búa các loại: 2
+Linh kiện đèn: 5
+Dao các loại: 11
+Nhạc cụ: 53
+Đàn piano: 3
+Đèn khác: 43
+Hoa tươi, Cây cảnh & Hạt giống: 94
+Phân bón: 42
+Các loại máy và phụ kiện: 42
+Máy hàn: 5
+Đồng hồ để bàn: 11
+Phụ kiện cây & hoa: 6
+Súng bắn keo: 5
+Bàn ghế các loại: 12
+Phụ kiện phòng ăn: 10
+Phụ kiện phòng ăn khác: 7
+Phụ kiện phòng ngủ: 34
+Võng: 9
+Bộ lục giác: 2
+Đàn organ: 1
+Nội thất phòng ăn: 4
+Bàn ghế: 4
+Chiếu: 5
+Đũa, muỗng, nĩa: 12
+Ruột gối: 8
+Nội thất phòng ngủ khác: 13
+Bàn để ủi và phụ kiện: 4
+Nệm và phụ kiện: 15
+Máy khoan, mũi khoan: 16
+Phụ kiện nệm: 4
+Bảo hộ lao động: 6
+Máy vặn vít, tua vít: 11
+Phụ kiện nhà tắm khác: 23
+Thảm chùi chân: 11
+Bàn học sinh: 1
+Xửng hấp: 3
+Đèn cảm ứng: 6
+Bộ dụng cụ đa năng: 9
+Decal & giấy dán tường: 6
+Ổ khóa: 8
+Thang nhôm: 9
+Bàn ghế học sinh: 10
+Túi đựng rác: 9
+Nến trang trí & Phụ kiện: 5
+Các loại máy khác: 18
+Decal & giấy dán kính: 2
+Thiết bị phòng tắm khác: 9
+Bộ ga, ra, drap: 8
+Kéo các loại: 4
+Bếp nướng, vỉ nướng: 14
+Than, cồn & Dụng cụ mồi lửa: 10
+Tô, chén, dĩa: 4
+Ghế các loại: 4
+Bảo vệ nhà cửa khác: 13
+Thiết bị đo lường: 9
+Thiết bị đo lường khác: 3
+Đèn ngoài trời: 14
+Máy bơm, máy cắt cỏ: 3
+Máy bơm: 2
+Sơn, dầu mỡ, hóa chất: 7
+Sơn: 3
+Máy mài, máy cắt: 5
+Ruột gối nằm: 3
+Gối nằm: 5
+Phụ kiện phòng ngủ khác: 11
+Xe đẩy hàng: 5
+Bình, ly uống trà và phụ kiện: 9
+Bình lọc, lõi lọc, thiết bị lọc nước: 10
+Lõi lọc: 5
+Xô, thau, chậu: 3
+Phụ kiện đàn: 5
+Dây đàn: 3
+Phụ kiện máy xịt rửa: 2
+Khay, Thau, rổ: 4
+Cây cảnh: 21
+Bình đựng nước: 19
+Ấm nước các loại: 3
+Hạt giống: 20
+Thước đo các loại: 3
+Máy đo  nhiệt độ, độ ẩm: 3
+Bình nước, bình giữ nhiệt: 2
+Kèn, Trống & Phụ kiện: 3
+Kèn & Phụ kiện: 2
+Bàn trang điểm: 1
+Hóa chất: 3
+Bình, giỏ, lẵng, kệ, chậu, khay: 5
+Túi, màng bọc thực phẩm: 8
+Dầu mỡ: 1
+Vỏ gối: 3
+Đá cắt, que hàn, cưa & lưỡi cưa: 2
+Cưa & lưỡi cưa: 2
+Khóa cửa thông minh: 1
+Dụng cụ Cắt-Gọt-Bào: 5
+Thiết bị lọc: 2
+Máy cưa: 1
+Vật phẩm phong thủy: 5
+Linh vật phong thủy: 1
+Phụ kiện thờ cúng: 7
+Hộp khăn giấy: 2
+Vòi rửa chén bát: 1
+Mô hình & Tượng trang trí: 2
+Ghế đôn: 1
+Miếng rửa chén, chà nồi: 2
+Bồn cầu: 2
+Rèm, màn cửa: 1
+Voucher - Dịch vụ: 2001
+Dịch vụ khác: 193
+Phụ kiện khác: 170
+Phụ kiện nhạc cụ khác: 2
+Bình, ca đựng nước: 1
+Lư trầm, bát hương, bát nhang: 10
+Tấm bảo vệ nệm: 1
+Thùng đồ nghề, túi công cụ: 2
+Vật phẩm phong thủy khác: 4
+Dụng  cụ làm bánh khác: 3
+Máy cắt cỏ: 1
+Bình lọc: 3
+Khay mứt: 1
+Tranh trang trí: 1
+Các loại tranh khác: 1
+Ngoại thất sân vườn: 2
+Kệ trang trí cây: 1
+Màng bọc thực phẩm: 3
+Lọ hoa & hoa trang trí: 1
+Lọ hoa: 1
+Ngoại thất sân vườn khác: 1
+Khay, khuôn làm đá: 1
+Bộ đồ thờ: 1
+Dụng cụ pha chế: 1
+Trống & Phụ kiện: 1
+Các loại đàn khác: 2
+Thớt nhà bếp: 4
+Ron, miếng dán khe cửa, chân cửa: 1
+Nội thất trẻ em: 1
+Ghế trẻ em: 1
+Túi đựng thực phẩm: 1
+Bàn thờ: 1
+Đèn xông tinh dầu, tinh dầu và phụ kiện: 1
+Nhạc cụ dân tộc: 1
+Sáo - Tiêu: 1
+Bách Hóa Online: 2000
+Đồ Uống Không Cồn: 88
+Đồ uống có gas: 49
+Nước Ngọt: 37
+Đồ uống có cồn: 122
+Bia và Nước hoa quả lên men: 71
+Bia Nội Địa: 44
+Nước Tăng Lực: 8
+Đậu & Hạt Các Loại: 212
+Hạt, củ, quả khô: 212
+Đồ uống không gas: 41
+Đồ uống không gas khác: 21
+Đồ uống - Pha chế dạng bột: 362
+Cà phê: 178
+Sữa và các Sản phẩm từ sữa: 158
+Sữa nước: 125
+Các Sản Phẩm Từ Sữa Khác: 13
+Sữa tiệt trùng (UHT): 77
+Nước hoa quả lên men: 21
+Sữa Thực Vật: 19
+Sữa Chức Năng Dạng Bột: 33
+Gia Vị và Chế Biến: 217
+Dầu ăn: 28
+Các loại dầu khác: 9
+Thực phẩm Đóng hộp và Khô: 323
+Thực phẩm khác: 81
+Thực phẩm bổ dưỡng: 53
+Ngũ cốc, bột: 88
+Trà Uống Liền: 3
+Thực phẩm khô: 225
+Thực phẩm ăn liền: 163
+Trà: 154
+Bộ quà tặng: 15
+Hộp Quà Tết: 12
+Sữa Chua Uống & Ăn: 14
+Nấu ăn và làm bánh: 36
+Các loại bột: 6
+Thực phẩm khô khác: 24
+Rượu: 51
+Rượu mạnh: 28
+Whisky: 19
+Đồ Ăn Vặt: 151
+Bánh: 105
+Đồ hộp: 34
+Thịt hộp: 8
+Gia vị dạng bột: 71
+Gia vị dạng bột khác: 57
+Dầu thực vật: 14
+Gạo, nếp: 34
+Bánh kẹo: 12
+Gia vị dạng nước: 83
+Nước mắm: 45
+Sữa đặc và sữa bột: 5
+Chăm sóc thú cưng: 260
+Thức ăn thú cưng: 67
+Thức ăn cho mèo: 32
+Đặc sản Việt Nam: 25
+Sirô, đường và chất tạo ngọt: 15
+Phụ kiện thú cưng: 172
+Dành cho mèo: 31
+Bồn, cát, đồ dùng vệ sinh cho mèo: 19
+Thực phẩm hữu cơ: 5
+Dành cho Cá: 73
+Bể cá & Phụ kiện: 73
+Rau củ, trái cây đóng hộp: 15
+Rượu vang: 14
+Bia Nhập Khẩu: 6
+Nước tương: 6
+Kem béo và sốt ngọt: 1
+Thức ăn cho chó: 28
+Thực phẩm chay: 10
+Các loại rượu mạnh khác: 3
+Đồ uống - Pha chế: 53
+Dầu olive: 5
+Bột Ngọt, Bột Nêm: 14
+Thực phẩm: 39
+Cafe Uống Liền: 3
+Kẹo: 27
+Các Loại Đồ Ăn Vặt Khác: 6
+Dành cho chó: 59
+Đồ dùng vệ sinh cho chó: 15
+Nước Trái Cây: 9
+Dụng cụ chăm sóc: 25
+Nguyên liệu làm bánh: 3
+Đồ uống - Giải khát: 1
+Các loại nước có gas khác: 4
+Brandy: 4
+Snack: 4
+Vòng cổ cho mèo: 1
+Các loại gia vị dạng nước khác: 32
+Thực phẩm cao cấp: 4
+Bánh tráng, bánh phở: 4
+Nước lọc đóng chai: 3
+Thức ăn cho chuột: 2
+Các loại rượu khác: 3
+Gia vị: 2
+Trái cây khô: 3
+Đồ chơi cho mèo: 4
+Cá hộp: 7
+Chuồng chó: 3
+Thực phẩm bảo vệ sức khỏe: 10
+Rượu gạo - Soju - Sake: 6
+Chocolate: 16
+Bánh kẹo khác: 2
+Thức ăn cho cá: 4
+Hàng Mùa Vụ Khác: 3
+Phụ kiện cho chó: 12
+Các Loại Đồ Uống Dạng Bột Khác: 2
+Phụ kiện cho mèo: 2
+Chocolate và cacao nướng bánh: 1
+Thức ăn cho chim: 1
+Dụng cụ ăn uống: 5
+Sữa Chức Năng Uống Liền: 1
+Chiết xuất và hương liệu: 1
+Pudding và gelatin: 1
+Dành Cho Chuột: 3
+Vodka: 1
+Dành cho chim: 5
+Các Loại Thú Nuôi Khác: 1
+Thực phẩm cho trẻ em: 2
+Đồ chơi cho chó: 4
+Gin: 1
+Mứt trái cây: 1
+Thiết Bị Số - Phụ Kiện Số: 2398
+Bàn phím: 61
+Chuột: 37
+Dành cho mặt: 1
+Hàng Quốc Tế: 1701
+Sách, Văn phòng phẩm & Quà lưu niệm: 272
+Business & Economics: 63
+Tiki Global: 11
+Health & Beauty: 1
+Personal Care: 1
+Other Personal Care: 1
+Điện gia dụng: 70
+Dây sạc, Dây cáp: 11
+Tai nghe: 65
+Bách hóa online: 44
+Đồ uống: 9
+Đồ uống khác: 1
+Mẹ & Bé: 66
+Cross Border: 4
+Thể thao - Dã ngoại: 134
+Giày & trang phục thể thao: 33
+History: 4
+Thiết bị số - Khác: 33
+Thời Trang: 173
+Túi xách và Phụ kiện: 20
+Túi xách & Balo: 14
+Thiết bị nhà bếp: 21
+How-to - Self Help: 61
+Thiết bị thông minh: 84
+Đồng hồ thông minh: 75
+Phụ kiện thể thao, dã ngoại: 73
+Laptop & Máy Vi Tính: 55
+Linh kiện máy tính: 40
+Thiết bị lưu trữ: 5
+Thiết bị lưu trữ khác: 5
+Thiết bị nhà cửa khác: 75
+Phụ kiện xe đạp: 61
+Dụng cụ phòng ăn & nhà bếp: 37
+Phụ kiện ô tô: 621
+Thể thao dưới nước: 74
+Adapter - Củ sạc: 11
+Biographies & Memoirs: 33
+Lifestyle - Fitness - Healthcare: 8
+Microphone: 6
+Văn Phòng Phẩm: 36
+Art & Design: 12
+Máy Ảnh - Máy Quay Phim: 2064
+Phụ kiện máy ảnh: 43
+Các môn thể thao chơi vợt: 96
+Văn Phòng Phẩm Khác: 11
+Đồ chơi ngành ảnh: 10
+Giày nam: 13
+Ống kính (Lens): 2
+Sắp xếp nhà cửa: 7
+Bao da - Ốp lưng: 27
+Màn hình máy tính: 1
+Dành cho cơ thể: 2
+Máy lọc không khí & tạo ẩm: 6
+Children's Books: 10
+Tivi & Thiết Bị Nghe Nhìn: 14
+Tivi: 228
+Education - Teaching: 15
+Phụ kiện thời trang khác: 9
+Mắt kính nữ: 2
+Thiết bị Game: 13
+Túi xách, ví nam: 1
+Travel: 5
+Đồ dùng nhà tắm: 21
+Phụ kiện âm thanh: 119
+Đầu đọc thẻ nhớ: 3
+Sổ tay: 5
+Hoạt động dã ngoại: 6
+Thiết bị nhà thông minh: 6
+Bút - Viết: 8
+Dụng cụ chăm sóc da mặt: 1
+Phụ kiện nam: 7
+Sữa: 1
+Dành cho tóc: 1
+Dưỡng da mặt: 21
+Vali: 4
+Phụ kiện Tivi: 358
+Máy ảnh lấy liền: 3
+Máy cạo râu: 7
+Trang phục nữ: 19
+Phụ kiện điện gia dụng: 3
+Loa nghe nhạc: 12
+Environment & Nature: 1
+Các môn thể dục và yoga: 11
+Sports - Outdoors: 6
+Sport & Outdoor Accessories: 6
+Giày dép nữ: 11
+Trang Sức: 2
+Phụ kiện: 2
+Gậy tự sướng: 1
+ Selfie: 1
+Sản phẩm chăm sóc bé: 2
+Cookbooks, Food & Wine: 1
+Đấm bốc & Võ thuật: 1
+Sản phẩm - thiết bị công nghiệp: 10
+Trang phục nam: 2
+Thiết bị mạng: 5
+Đồ chơi công nghệ: 8
+Đế Tản Nhiệt Laptop: 15
+Tivi box, smart box: 1
+Art & Photography: 1
+Maternal & Parenting: 1
+Cross Border-Hàng Quốc Tế: 2
+Thẻ nhớ điện thoại: 1
+Thời trang cho mẹ và bé: 25
+Thời trang cho bé: 14
+Đồ ngủ, mặc nhà, đồ lót nam: 8
+Máy ảnh DSLR: 1
+Đồ ngủ, đồ mặc nhà, nội y: 6
+Máy Tính Bảng: 12
+Máy quay phim: 2
+Science - Technology: 2
+Manga: 2
+Linh kiện điện thoại: 5
+Máy nghe nhạc: 1
+Dàn âm thanh: 2
+Điện Thoại Smartphone: 1
+Electronics Accessories & Peripherals: 1
+Smart Watch: 1
+Vòng theo dõi vận động: 2
+Sản phẩm chống nắng và phục hồi sau khi đi nắng: 1
+Máy in - Máy Scan: 2
+Phụ kiện loa âm thanh: 1
+Điện Thoại Phổ Thông: 1
+Nồi điện: 3
+Điện lạnh: 1
+Đồ dùng cho người già: 1
+Trang phục bơi nam: 1
+Webcam: 1
+Psychology, Philosophy & Social Science: 2
+Hub USB: 22
+Các loại camera khác: 1
+Bình các loại: 1
+Architecture: 1
+Pin sạc dự phòng: 1
+Máy ảnh du lịch: 1
+Thiết Bị Âm Thanh và Phụ Kiện: 481
+Tai Nghe Bluetooth: 178
+Tai Nghe Bluetooth Nhét Tai: 85
+Tai Nghe Có Dây: 72
+Tai Nghe Có Dây Nhét Tai: 64
+Phụ kiện máy tính và Laptop: 541
+Phụ Kiện Phím Chuột Văn Phòng: 150
+Chuột Văn Phòng: 98
+Chuột Văn Phòng Không Dây: 80
+Phụ Kiện Điện Thoại và Máy Tính Bảng: 834
+Adapter - Củ Sạc: 113
+Adapter Sạc - Củ Sạc Thường: 80
+Tai Nghe True Wireless: 75
+Thẻ Nhớ và Bộ Nhớ Mở Rộng: 52
+Thẻ Nhớ Điện Thoại: 44
+Bộ Adapter Sạc Kèm Cáp Sạc: 13
+Phụ Kiện Laptop: 52
+Giá Đỡ Laptop: 39
+Pin Sạc Dự Phòng: 62
+Pin Sạc Dự Phòng Di Động: 62
+Bàn Phím Rời - Bút Cảm Ứng: 18
+Bút Cảm Ứng: 10
+Phụ Kiện Âm Thanh: 112
+Bộ Chuyển Đổi Không Dây: 19
+Loa Nghe Nhạc: 114
+Loa Vi Tính: 24
+Thiết Bị Chơi Game và Phụ Kiện: 44
+Phụ Kiện Gaming: 14
+SIM Điện Thoại: 38
+SIM Data - SIM 3G : 38
+ 4G: 38
+Loa Bluetooth: 83
+Các Loại Cáp Chuyển Đổi: 160
+Bộ Chuyển Đổi Tín Hiệu HDMI: 22
+VGA: 22
+DVI: 22
+DP: 22
+Dây Sạc - Dây Cáp: 149
+Dây Cáp Sạc iPhone, iPad: 43
+Tai Nghe Bluetooth Chụp Tai On-Ear: 5
+Chuột Văn Phòng Có Dây: 18
+Phụ Kiện Phím Chuột Chơi Game: 65
+Chuột Chơi Game: 34
+Đầu Đọc Thẻ Nhớ: 10
+Bàn Di Chuột - Miếng Lót Chuột: 37
+Dây Cáp Sạc USB Type-C: 43
+Thiết Bị Thông Minh và Linh Kiện Điện Tử: 19
+Thiết Bị Số - Thiết Bị Thông Minh: 7
+Thiết Bị Nhà Thông Minh: 2
+Dụng Cụ Vệ Sinh và Sửa Chữa: 23
+Dụng Cụ Vệ Sinh: 24
+Bàn Phím Văn Phòng: 24
+Bàn Phím Văn Phòng Có Dây: 6
+Thiết Bị Đeo Thông Minh và Phụ Kiện: 82
+Đồng Hồ Thông Minh: 39
+Cáp HDMI - Displayport: 33
+Phụ Kiện Chụp Hình: 19
+Gậy Tự Sướng - Selfie: 19
+Hub Chuyển Đổi USB Type-C: 48
+Loa Trợ Giảng: 3
+Bộ Phím Chuột Văn Phòng: 27
+Giá Đỡ - Chân Đế - Móc Dán: 96
+Giá Đỡ - Chân Đế Gắn Ô Tô, Xe Máy: 30
+Bàn Phím Chơi Game: 31
+Dây Cáp Sạc Đa Năng: 23
+Phụ Kiện Di Động Khác: 10
+Bút Trình Chiếu: 14
+Đồ Chơi Công Nghệ - Thiết Bị Số và Phụ Kiện Số Khác: 2
+Tai Nghe Bluetooth Chụp Tai Over-Ear: 11
+Micro: 24
+Microphone Di Động: 10
+Giá Đỡ - Chân Đế Thường: 66
+Tay Bấm Game - Thiết Bị Điều Khiển: 21
+Webcam Máy Tính: 10
+Miếng Dán Màn Hình: 53
+Miếng Dán Màn Hình Điện Thoại: 43
+Bàn Phím Văn Phòng Không Dây: 18
+Phụ Kiện Thiết Bị Đeo Thông Minh: 41
+Dây Đeo Thay Thế, Phụ Trợ - Phụ Kiện Khác: 23
+Adapter Sạc - Cáp Sạc Cho Thiết Bị Đeo: 12
+Công Cụ Đồ Họa - Thiết Bị Cảm Ứng: 10
+Thiết Bị Đồ Họa và Công Cụ Khác: 1
+Tai Nghe Máy Tính: 20
+Tai Nghe Chơi Game: 20
+Vòng Đeo Thông Minh - Vòng Theo Dõi Vận Động: 2
+Bàn Phím Rời - Ốp Tích Hợp Bàn Phím: 8
+Các Loại Cáp Khác: 23
+Dây Cáp Sạc Micro USB: 17
+Bảng Vẽ Đồ Họa Cảm Ứng: 9
+Máy Chơi Game - Console: 7
+Máy Chơi Game Khác: 6
+Cáp Âm Thanh: 34
+Micro Karaoke Bluetooth: 12
+Linh Kiện Thay Thế: 4
+Pin Thay Thế: 4
+Dây Cáp VGA-DVI: 3
+Adapter Sạc - Củ Sạc Xe Hơi: 5
+Hộp Đựng - Túi Đựng Phụ Kiện: 45
+Dây Cáp Thunderbolt: 2
+USB OTG: 8
+Máy Thu và Máy Phát Âm Thanh: 7
+Máy Ghi Âm: 3
+Dụng Cụ Sửa Chữa và Vệ Sinh: 6
+Dụng Cụ Sửa Chữa: 5
+Bộ Chuyển Đổi Khác: 6
+Đế Sạc Không Dây: 15
+Bao Da - Ốp Lưng: 165
+Bao Da - Ốp Lưng Điện Thoại iPhone: 61
+Túi Bảo Vệ - Túi Chống Nước: 5
+Bao Da - Ốp Lưng Điện Thoại Samsung: 45
+Tai Nghe Có Dây Chụp Tai (Over-Ear): 7
+Mạch Điện Lập Trình và Linh Kiện Điện Tử: 12
+Linh Kiện và Các Phần Cứng Khác: 6
+Phụ Kiện Chơi Game: 2
+Nút Bấm Chơi Game Điện Thoại: 1
+Bao Da - Ốp Lưng Điện Thoại Xiaomi: 14
+Dây Đeo và Phụ Kiện Trang Trí: 3
+Bao Da - Ốp Lưng Máy Tính Bảng Khác: 17
+PlayStation: 1
+Tai Nghe Có Dây Chụp Tai (On-Ear): 1
+Bao Da - Ốp Lưng Điện Thoại Khác: 8
+Cáp Song Song - Cáp Máy In - Cáp Serial: 6
+Bao Da - Ốp Lưng Điện Thoại Huawei: 2
+Dây, Cáp Nối và Adapter Nguồn: 3
+Dây Nguồn: 1
+Bao Da - Ốp Lưng iPad: 16
+Miếng Dán Thiết Bị Di Động Khác: 4
+Dây Cáp USB: 7
+DAC và Amplifier Di Động: 2
+Bao Da - Ốp Lưng Điện Thoại Vivo: 1
+Thiết Bị Định Vị GPS: 2
+Máy Nghe Nhạc: 4
+Phụ Kiện Phím Chuột Văn Phòng Khác: 1
+Ghế Gaming: 2
+Dây Cáp SATA: 1
+Đệm và Nút Tai Nghe: 3
+Các Module Tích Hợp: 1
+Loa Kéo: 3
+Phụ Kiện và Dụng Cụ Khác: 2
+Bao Da - Ốp Lưng Điện Thoại Sony: 1
+Microphone Vi Tính: 2
+Case - Vỏ Ốp Lưng Laptop: 2
+Skin và Decal Dán Laptop: 1
+Tay Cầm Chơi Game Điện Thoại: 1
+Tai Nghe Bluetooth Đàm Thoại: 2
+Loa Hi-Fi - Audiophiles: 1
+Máy Bộ Đàm: 1
+Khóa học: 778
+Khóa học ngoại ngữ: 226
+Khóa học online: 264
+Sự kiện - Giải trí: 43
+Vui chơi - Giải trí: 18
+Nhà hàng - Ăn uống: 97
+Buffet: 24
+Buffet Gọi Món: 3
+Nha khoa - Sức khỏe: 53
+Nha khoa: 24
+Buffet Chay: 6
+Buffet Hải Sản: 3
+Bảo hiểm: 6
+Bảo hiểm xe máy: 6
+Spa & Làm đẹp: 179
+Massage Body - Foot: 44
+Cafe - Kem - Bánh: 17
+Buffet BBQ: 12
+Du lịch - Khách sạn: 624
+Tour du lịch: 280
+Tour nước ngoài: 61
+Khóa học vi tính văn phòng: 11
+Vé tham quan - du lịch: 49
+Tour trong nước: 219
+Tour miền Nam: 77
+Khóa học nghệ thuật và chủ đề khác: 52
+Khách sạn - Resort: 278
+Khách sạn - Resort miền Trung: 142
+Nhà hàng - Quán ăn: 24
+Khách sạn - Resort miền Bắc: 28
+Khóa học nuôi dạy con và kỹ năng cho bé: 37
+Nhà hàng: 29
+Sim 3G: 17
+4G - Bộ phát Wifi: 17
+Ca nhạc - Phim - Kịch: 16
+Tour miền Trung: 85
+Tour miền Bắc: 57
+Khóa học kinh doanh - marketing: 70
+Khách sạn - Resort miền Nam: 108
+Phiếu quà tặng: 24
+Spa - Thẩm mỹ viện: 38
+Salon làm đẹp: 20
+Khóa học IT và lập trình: 61
+Phòng tập: 21
+GYM: 18
+Yoga: 98
+Khóa học thiết kế đồ họa và video: 42
+Khám sức khỏe tổng quát: 29
+Sự kiện - Thể thao: 1
+Studio - Chụp ảnh: 9
+Khóa học Kế toán - Tài chính - Đầu tư: 13
+Voucher ẩm thực khác: 1
+Phẫu thuật thẩm mỹ: 4
+Bar - Beer club: 1
+Khóa học KYNA: 2
+TicketBox: 2
+Quán ăn: 1
+Vé xe bus: 1
+Ô Tô - Xe Máy - Xe Đạp: 2000
+Xe máy: 34
+Xe tay ga: 25
+Phụ kiện - Chăm sóc xe: 1935
+Phụ kiện - Đồ nghề xe đạp: 217
+Bơm xe đạp: 23
+Xe số: 4
+Chăm sóc ô tô: 336
+Nước rửa xe: 10
+Phụ tùng ô tô: 153
+Dụng cụ, thiết bị sửa ô tô: 81
+Phụ kiện ngoại thất ô tô: 172
+Máy rửa xe: 36
+Dụng cụ vệ sinh xe: 30
+Chăm sóc xe máy: 104
+Phụ gia xe máy, mô tô: 47
+Đèn xe đạp: 54
+Nước hoa, sáp thơm ô tô: 42
+Keo - Băng keo chuyên dụng: 32
+Phụ kiện ngoại thất khác: 25
+Đánh bóng, xoá xước sơn: 53
+Bạt trùm xe: 23
+Phụ kiện nội thất ô tô: 367
+Bình ắc quy: 24
+Khoá xe đạp: 4
+Vệ sinh, khử mùi nội thất: 71
+Yên xe đạp: 4
+Xe côn tay: 2
+Nước rửa xe, rửa kính: 73
+Sạc ô tô: 21
+Bạt phủ ô tô: 15
+Dầu nhớt xe máy, mô tô: 57
+Phụ tùng - Phụ kiện xe đạp khác: 112
+Mũ bảo hiểm: 137
+Mũ bảo hiểm xe máy: 116
+Mũ 3: 21
+4: 21
+Phụ gia chăm sóc khác: 11
+Phụ gia ô tô: 21
+Phụ kiện nội thất khác: 67
+Vệ sinh lốp, thân vỏ: 19
+Khóa chống trộm xe máy: 23
+Xe điện: 14
+Xe máy điện: 10
+Bộ dụng cụ sửa chữa xe đạp: 13
+Gối, đệm, ghế ô tô: 25
+Xe đạp: 13
+Xe đạp thông dụng: 1
+Đèn ô tô: 19
+Phiếu mua xe máy: 2
+Phụ tùng xe máy: 116
+Đèn xe máy: 45
+Mũ 1: 34
+2: 34
+Mâm - Lốp xe: 3
+Đồ bảo hộ đi xe: 28
+Găng tay xe máy: 23
+Ắc quy: 8
+Dầu nhớt ô tô: 13
+Gương: 24
+Chất tẩy rửa vệ sinh động cơ: 10
+Săm - Vỏ xe đạp: 7
+Bọc lót vô lăng - Tay lái - Chìa khóa: 4
+Bảo dưỡng - Đánh bóng: 3
+Còi: 3
+Phụ tùng thay thế khác: 17
+Tấm che nắng: 9
+Xe đạp thể thao: 5
+Xe đạp địa hình: 3
+Phuộc - Giảm xóc: 10
+Mũ bảo hiểm trẻ em: 9
+Gạt mưa ô tô: 9
+Máy rửa xe và phụ tùng thay thế: 6
+Nhớt động cơ: 22
+Mũ Fullface: 10
+Baga: 21
+Decal trang trí: 27
+Dụng cụ - Thiết bị an toàn: 2
+Đèn: 4
+Vỏ, lốp xe máy: 2
+Ốc vít trang trí: 14
+Bọc lót vô lăng, tay lái: 1
+Phụ kiện thay thế: 3
+Nhớt hộp số: 2
+Yên xe: 2
+Xe đạp thời trang: 1
+Nước làm mát: 1
+Phụ kiện xe điện: 1
+Xe đạp điện: 2
+Dầu bôi trơn khác: 1
+Lọc gió và nhiên liệu: 10
+Pô: 8
+Nhớt thắng - phanh: 2
+Đồ bảo hộ khác: 5
+Vỏ nhựa, dàn áo xe máy: 8
+Mũ bảo hiểm xe đạp: 9
+Xe đạp thể thao khác: 2
+Dịch vụ, lắp đặt: 4
+Dịch vụ bảo trì, sửa chữa: 3
+Bugi: 1
+Thảm sàn, để chân ô tô: 5
+Camera hành trình ô tô: 2
+Chắn mưa, chắn bùn: 1
+Lắp đặt phụ tùng, phụ kiện: 1
+Sơn - Phủ gầm ô tô: 2
+Xe thăng bằng: 1
+Gương ô tô: 1
+Xe 50cc: 1
+Sách tiếng Việt: 1908
+Sách văn học: 627
+Tiểu Thuyết: 116
+Sách kỹ năng sống: 325
+Sách tư duy - Kỹ năng sống: 269
+Truyện trinh thám: 66
+Truyện ngắn - Tản văn - Tạp Văn: 104
+Tác phẩm kinh điển: 58
+Sách Kiến Thức Tổng Hợp: 99
+Lĩnh vực khác: 35
+Sách kinh tế: 173
+Sách tài chính, tiền tệ: 44
+Kiến Thức Bách Khoa: 24
+Truyện dài: 22
+Sách thiếu nhi : 55
+Truyện kể cho bé: 5
+Truyện Giả tưởng - Huyền Bí - Phiêu Lưu: 31
+Sách Chiêm Tinh - Horoscope: 14
+Sách kinh tế học: 14
+Light novel: 53
+Sách Học Ngoại Ngữ: 70
+Sách Học Tiếng Anh: 47
+Bài học kinh doanh: 34
+Sách nghệ thuật sống đẹp: 53
+Truyện đam mỹ: 68
+Văn phòng phẩm: 69
+Máy Tính Điện Tử: 4
+Máy Tính Khoa Học: 3
+Du ký: 2
+Sách Tôn Giáo - Tâm Linh: 47
+Văn học thiếu nhi: 12
+Sách kỹ năng làm việc: 36
+Sách Học Tiếng Hoa: 18
+Truyện Tranh, Manga, Comic: 346
+Điện Ảnh - Nhạc - Họa: 10
+Sách Tô Màu Dành Cho Người Lớn: 3
+Dụng Cụ Học Sinh: 9
+Tập Học Sinh: 1
+Sách quản trị, lãnh đạo: 7
+Tranh Truyện: 25
+Thơ: 8
+Sách giáo dục: 12
+Sách Tham Khảo: 19
+Sách Luyện Thi Đại Học - Cao Đẳng: 10
+Sách Lịch sử: 38
+Lịch Sử Thế Giới: 26
+Sách Tâm lý - Giới tính: 9
+Sách Tâm Lý Tuổi Teen: 4
+Lịch Sử Việt Nam: 12
+Truyện ngôn tình: 25
+Truyện kinh dị: 17
+Sách Marketing - Bán hàng : 25
+Tiểu sử - Hồi ký: 21
+Sách Thường Thức - Gia Đình: 8
+Sách Nấu ăn: 5
+Sách Y Học: 31
+Triết Học: 10
+Truyện cười: 1
+Sách Bà mẹ - Em bé: 23
+Sách Làm Cha Mẹ: 20
+Truyện kiếm hiệp: 2
+Dụng Cụ Văn Phòng: 10
+Băng Keo - Keo Hồ - Cắt Keo: 6
+Lịch: 5
+Lịch Bàn: 4
+Văn Hóa Phẩm: 1
+Bao lì xì: 1
+Sách Giáo Khoa - Giáo Trình: 8
+Giáo Trình Đại Học - Cao Đẳng: 7
+Sách Văn Hóa - Địa Lý - Du Lịch: 6
+Sách Địa Danh - Du Lịch: 2
+Bút - Viết các loại: 17
+Bút gel - Bút nước: 8
+Sách Phong Thủy - Kinh Dịch: 4
+Sách khởi nghiệp: 7
+Grammar, vocabulary & skills: 4
+Sách hướng nghiệp - Kỹ năng mềm: 3
+Sản phẩm về giấy: 5
+Giấy các loại: 5
+Giấy in - Fax - Photo: 5
+Kiến thức - Bách khoa: 18
+Sách Công Nghệ Thông Tin: 5
+Lập Trình: 4
+Đạo đức - Kỹ năng sống: 2
+Gọt bút chì - Gôm Tẩy: 5
+Bút Chì Màu - Bút Lông Màu - Sáp Màu: 12
+Bút Lông Màu: 6
+Mỹ Thuật - Kiến Trúc: 6
+Sách Dinh Dưỡng - Sức Khỏe Cho Bé: 1
+Sách Chính Trị - Pháp Lý: 7
+Luật - Văn Bản Luật: 5
+Phóng sự - Ký sự - Bút ký: 6
+Lịch Tờ - Lịch Lò Xo: 1
+Sáp nặn: 1
+Sách Làm Đẹp: 1
+Sách Hôn Nhân - Giới Tính: 5
+Bảng Viết: 3
+Truyện tranh Ehon: 10
+Ngoại Ngữ Khác: 1
+Tin Học Văn Phòng: 1
+Sách doanh nhân: 4
+Truyện cổ tích: 2
+Sách Danh Nhân: 3
+Quà lưu niệm: 11
+Bookmark: 1
+Chăm sóc sức khỏe: 2
+Bút vẽ kỹ thuật: 1
+Truyện cổ tích - Ngụ ngôn: 2
+Dictionary: 4
+English Language Dictionary: 2
+Truyện tranh thiếu nhi: 2
+Tô màu - Luyện chữ  : 4
+Sách tham khảo cấp III: 4
+Bút dạ quang: 2
+Sách tham khảo cấp II: 4
+Bút chì - Ruột bút chì: 2
+Máy tính để bàn: 1
+Lý Luận Chính Trị: 2
+Thú Nhồi Bông: 2
+Sách Học Tiếng Hàn: 2
+Sách quản trị nhân lực: 2
+Âm Nhạc - Điện Ảnh: 1
+Cọ Vẽ - Màu Nước: 4
+Flashcards: 2
+Flashcards Cho Bé: 2
+Picture & Storybooks: 1
+Picture books: 1
+Sách Phong Tục - Tập Quán: 1
+Từ Điển: 1
+Từ Điển Tiếng Việt: 1
+Sách Khoa Học - Kỹ Thuật: 1
+Thiết bị văn phòng: 1
+Máy ép plastic: 1
+Bút bi - Ruột bút bi: 4
+Teaching - Learning: 1
+High School: Grades 10 - 12: 1
+Sticker - Decal trang trí: 2
+Sách Học Tiếng Nhật: 2
+Hộp quà - Túi quà: 3
+Sách Kiến Thức - Kỹ Năng Cho Trẻ: 1
+Sổ Tay Các Loại: 2
+Dụng cụ văn phòng khác: 1
+Phụ kiện - Vật liệu trang trí: 1
+Móc Khóa - Phụ Kiện Trang Trí: 2
+Sách Giáo Khoa Cấp 1: 1
+Sách chuyên đề: 1
+Chì Màu - Sáp Màu: 2
+Science, Nature & How It Works: 2
+Encyclopedias & General Knowledge: 2
+Tập vở các loại : 1
+Tập 4 ô ly: 1
+Bilingual Dictionary: 2
+ELTs: 1
+Con dấu: 1
+Sách Thai Giáo: 1
+Personal Improvement: 1
+Bút Viết Văn Phòng: 1
+Bút Bi: 1
+Điện Tử - Điện Lạnh: 2000
+Smart Tivi - Android Tivi: 111
+Âm thanh & Phụ kiện Tivi: 985
+Giá treo Tivi: 101
+Tivi 4K: 79
+Máy lạnh - Máy điều hòa: 66
+Máy nước nóng: 75
+Máy giặt: 120
+Android TV Box, Smart Box: 66
+Điều khiển từ xa Tivi: 186
+Anten Tivi: 25
+Đầu thu kỹ thuật số: 17
+Loa: 183
+Loa thanh, Soundbar: 52
+Tủ lạnh: 200
+Máy radio cassette: 44
+Tivi QLED: 18
+Phụ kiện điện lạnh: 232
+Phụ kiện, linh kiện điện lạnh khác: 64
+Micro Karaoke - sân khấu: 94
+Internet Tivi: 1
+Tivi cao cấp: 6
+Receivers, Amplifier, Mixer: 109
+Phụ kiện, linh kiện máy lạnh: 117
+Phụ kiện, linh kiện máy giặt: 38
+Máy rửa chén: 35
+Phụ kiện âm thanh khác: 66
+Tivi thường (LED): 9
+Loa Sub, siêu trầm: 22
+Cáp Tivi: 20
+Loa karaoke: 87
+Tủ đông - Tủ mát: 22
+Phụ kiện, linh kiện tủ lạnh: 12
+Giá treo loa: 33
+Cáp loa, đầu chuyển: 12
+Đầu CD, DVD, karaoke, Blu-ray: 5
+Đầu ghi phát DVD, Blu-ray: 2
+Loa thùng, loa vệ tinh: 9
+Loa Bookshelf: 8
+Loa âm trần - âm tường: 1
+Loa sân khấu, ngoài trời: 4
+Đầu ghi phát CD: 1
+Tủ ướp rượu: 1
+Dàn âm thanh : 21
+Dàn Karaoke: 10
+Dàn âm thanh giải trí tại gia: 11
+Đầu phát karaoke: 2
+Bộ giải mã âm thanh DAC: 2
+Thiết bị phát Streaming: 1
+Phụ kiện, linh kiện máy nước nóng: 1
+Tivi OLED: 3
+Dụng cụ - thiết bị tập thể thao: 348
+Dụng cụ tập cơ tay: 43
+Đồ dùng dã ngoại: 197
+Bật lửa Zippo: 35
+Dây nhảy: 43
+Đèn pin đội đầu: 21
+Cầu lông: 55
+Vợt cầu lông: 30
+Dây đàn hồi tập gym: 32
+Túi ngủ: 25
+Bơi lội: 67
+Kính bơi: 30
+Đai chạy bộ: 25
+Các môn thể thao khác: 154
+Thảm yoga: 54
+Xà đơn: 36
+Xe đạp tập: 15
+Dụng cụ tập thể thao khác: 50
+Phụ kiện cầu lông: 12
+Túi thể thao: 19
+Dụng cụ hít đất: 17
+Bóng bàn: 27
+Vợt bóng bàn: 13
+Thực phẩm bổ sung năng lượng: 60
+Thực phẩm giảm cân: 2
+Tạ tập: 37
+Tạ đôi: 25
+Dao xếp đa năng: 14
+Dụng cụ - Thiết bị tập bụng, eo: 54
+Con lăn tập bụng: 22
+Dụng cụ tập eo: 28
+Bình nước thể thao: 27
+Vớ thể thao: 14
+Các môn thể thao đồng đội: 103
+Bóng Đá: 68
+Banh bóng đá: 35
+Trượt ván: 9
+Ván trượt: 9
+Máy chạy bộ: 11
+Quả cầu lông: 13
+Phụ kiện bóng bàn: 3
+Khăn đa năng, khăn thể thao: 34
+Băng cổ tay, băng trán thể thao: 45
+Giày chạy bộ nam: 56
+Găng tay tập gym: 18
+Trang phục thể thao nam: 93
+Quần thể thao nam: 40
+Bóng rổ: 38
+Các môn thể thao đối kháng : 32
+Boxing: 9
+Giày thể thao nữ khác: 4
+Thực phẩm tăng cơ: 24
+Lều trại, mái che: 26
+Giày chạy bộ nữ: 19
+Dụng cụ câu cá: 321
+Máy câu: 18
+Dụng cụ -Thiết bị tập luyện võ thuật: 21
+Dụng cụ -Thiết bị tập luyện võ thuật khác: 8
+Bàn, ghế xếp dã ngoại: 19
+Quần áo đá banh nam: 16
+Áo thể thao nam: 29
+Phụ kiện yoga khác: 34
+Dụng cụ câu cá khác: 114
+Bếp, nồi dã ngoại: 6
+Lưỡi - Mồi - Phao: 88
+Tạ miếng: 4
+Thảm dã ngoại: 7
+Cần câu: 70
+Phao bơi: 20
+Thiết bị điện tử thể thao: 6
+Trượt patin: 18
+Giày patin: 13
+Giày đá bóng nam: 52
+Găng tay võ thuật: 10
+Dụng cụ bảo hộ trượt patin: 4
+Phụ kiện bóng đá: 33
+Trang phục thể thao nữ: 55
+Quần thể thao nữ: 24
+Dây câu: 31
+Thiết bị sơ cứu: 6
+Vành bóng rổ: 4
+Đồ dùng dã ngoại khác: 33
+Phụ kiện tạ tập: 4
+Bida: 7
+Bàn bida: 1
+Bổ sung năng lượng: 12
+Thực phẩm tăng sức bền: 4
+Bóng chuyền: 7
+Banh bóng chuyền trong nhà: 6
+Bóng chày: 4
+Gậy bóng chày: 4
+Tạ đeo tay, chân: 3
+Giày cầu lông nam: 15
+Nón bơi: 6
+Banh bóng bàn: 8
+Bổ sung vitamin và điện giải: 3
+Nón, mũ thể thao: 13
+La bàn: 2
+Trang phục, phụ kiện chống thấm nước: 7
+Tennis: 8
+Phụ kiện tennis: 8
+Áo thể thao nữ: 30
+Máy tập bụng: 3
+Quần áo bơi chuyên dụng nam: 8
+Giày thể thao nam khác: 2
+Giàn tạ đa năng: 4
+Cơ: 3
+Máy rung giảm cân: 3
+Golf: 22
+Phụ kiện Golf: 12
+Bóng tập yoga: 7
+Xà kép: 3
+Thảm tập Golf: 5
+Tạ vôi: 1
+Phụ kiện bơi lội: 3
+Lặn biển: 1
+Kính lặn ống thở, mặt nạ lặn: 1
+Dụng cụ cổ động, cổ vũ: 3
+Cầu Đá - Cầu Mây: 3
+Phóng phi tiêu: 2
+Quần áo golf nam: 2
+Túi Golf: 1
+Chèo thuyền: 2
+Thể dục dụng cụ: 1
+Phụ kiện thể dục dụng cụ: 1
+Phụ kiện bóng chuyền: 1
+Găng tay Golf: 3
+Mặt vợt bóng bàn: 3
+Quần áo cầu lông nam: 5
+Gậy Golf: 1
+Đích đấm, đích đá: 1
+Trụ đấm, trụ bóng phản xạ: 2
+Dụng cụ leo núi: 1
+Gậy leo núi: 1
+Quần áo tennis nữ: 1
+Muay Thái: 2
+Giày bóng chuyền nam: 3
+Giày bóng rổ nam: 2
+Phụ kiện bida khác: 3
+Phụ kiện giày patin: 1
+Ghế cong lưng tập bụng: 1
+Kìm đa năng: 2
+Bổ sung năng lượng khác: 1
+Giày tennis nam: 1
+Giày leo núi nam: 1
+Quần áo bóng rổ nam: 1
+Camera Giám Sát: 817
+Camera IP: 611
+Phụ Kiện Máy Ảnh, Máy Quay: 625
+Thẻ Nhớ Máy Ảnh: 52
+Thẻ Nhớ SD: 44
+Phụ Kiện Camera Giám Sát: 107
+Phụ Kiện Máy Ảnh, Máy Quay Khác: 92
+Pin - Sạc Máy Ảnh, Máy Quay: 154
+Chân Máy Ảnh, Monopod, Tripod: 132
+Gimbal: 53
+Film Máy Ảnh: 2
+Balo - Túi Đựng - Bao Da: 172
+Hộp Đựng - Tủ Chống Ẩm: 34
+Máy Bay Camera và Phụ Kiện: 47
+Máy Bay Camera - Drone: 45
+Dụng Cụ Vệ Sinh Máy Ảnh: 13
+Camera Hành Trình - Action Camera và Phụ Kiện: 138
+Camera Hành Trình Ô Tô, Xe Máy: 91
+Túi Hút Ẩm Cho Máy Ảnh, Máy Quay: 25
+Thiết Bị Ánh Sáng: 35
+Đèn Chiếu Sáng Studio: 20
+Dây Đeo Máy Ảnh, Máy Quay, Ống Nhòm: 39
+Kính Lọc - Filter: 22
+Ống Kính - Ống Ngắm: 69
+Ống Nhòm: 39
+Máy Ảnh: 64
+Máy Ảnh Compact - Máy Ảnh Du Lịch: 23
+Phụ Kiện Camera Hành Trình: 34
+Đèn Flash và Phụ Kiện: 8
+Túi và Hộp Đựng Máy Ảnh: 62
+Thiết Bị Phòng Tối: 15
+Đầu Ghi Hình Camera: 41
+Thẻ Nhớ Máy Ảnh Khác: 4
+Lens Hood: 8
+Camera Quan Sát Analog: 34
+Điều Khiển Từ Xa: 2
+Phụ Kiện Máy Bay Camera - Drone: 2
+Nắp Ống Kính: 18
+Máy Ảnh Lấy Liền: 11
+Hộp Chụp Ảnh Sản Phẩm: 17
+Túi Đựng Máy Ảnh: 23
+Hệ Thống Camera Giám Sát: 24
+Kính Hiển Vi: 20
+Bao Đựng Chống Sốc, Chống Nước: 13
+Adapter - Ngàm Chuyển: 8
+Miếng Dán Bảo Vệ Màn Hình Máy Ảnh: 10
+Kính Viễn Vọng - Kính Thiên Văn: 10
+Ống Kính (Lens): 22
+Ống Kính Máy Ảnh: 22
+Thiết Bị Phản Sáng và Phụ Kiện: 6
+Thẻ Nhớ CF: 4
+Action Camera: 13
+Máy Đo Sáng và Phụ Kiện: 1
+Máy Ảnh DSLR: 13
+Phụ Kiện Cho Ống Kính: 2
+Máy Ảnh Mirrorless: 17
+Thiết Bị Quay Phim: 11
+Máy Quay Phim: 7
+Máy Quay Phim Chuyên Dụng: 2
+Túi và Hộp Đựng Máy Quay: 1
+Micro Cho Máy Quay: 1
+Phụ Kiện Máy Quay Khác: 1
+Trái Cây: 1375
+Trái Cây Nội Địa: 607
+Trái Cây Nhập Khẩu: 768
+TikiNGON: 805
+TIKINGON: 4998
+Thực Phẩm Tươi Sống: 268
+Thịt, Trứng: 2000
+Trứng gà, vịt, cút: 179
+Thịt heo, lợn: 638
+Thịt gà, vịt, chim: 280
+Thịt bò, bê: 650
+Thịt đông lạnh: 184
+Các loại thịt khác: 69
+Nông sản tươi khác: 49
+Hành, tỏi, ớt, rau thơm: 260
+Nấm, hạt các loại: 279
+Combo rau củ: 42
+Sữa, bơ, phô mai: 2001
+Sữa đậu nành, ngũ cốc: 250
+Sữa tươi, sữa trái cây: 855
+Sữa chua, phô mai: 592
+Sữa đặc, sữa bột: 82
+Bơ, magarine: 102
+Kem cây, kem hộp: 120
+Cá, thuỷ hải sản: 1999
+Cá, hải sản đông lạnh: 1002
+Thủy hải sản khác: 412
+Thủy hải sản chế biến: 195
+Cá khô, tôm, mực khô: 191
+Tôm, cua, ghẹ, ốc: 199
+Gạo, mì, nông sản: 1999
+Mì ăn liền, phở, cháo: 609
+Gạo, nếp, đậu: 497
+Bột gạo, mì, bột chiên: 137
+Mì, bún khô, bánh tráng: 626
+Nông sản khô các loại: 57
+Rong biển, nấm, măng khô: 73
+Bia, đồ uống: 1998
+Bia, cider: 204
+Cà phê hạt, đóng chai: 302
+Nước ngọt, có ga, tonic: 387
+Nước trái cây, thể thao: 237
+Trà khô, trà đóng chai: 328
+Rượu vang, rượu trái cây: 260
+Nước khoáng, nước suối: 138
+Siro, nguyên liệu pha chế: 27
+Rượu whisky, rượu mạnh: 115
+Đồ hộp, đóng gói: 1
+Đồ bổ dưỡng, hữu cơ: 1
+Bánh kẹo, giỏ quà: 1994
+Bánh quy, bánh ngọt: 632
+Socola, kẹo, ngũ cốc: 761
+Bim bim, snack, khoai tây: 333
+Củ quả sấy, mứt, ô mai: 173
+Giỏ quà, bánh theo mùa: 91
+Thực phẩm Việt: 6
+Lạp xưởng, thịt khô, nem: 6
+Chà bông, thịt khô: 4

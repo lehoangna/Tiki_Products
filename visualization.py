@@ -1,6 +1,7 @@
 import pymongo
 import pandas as pd
 import matplotlib.pyplot as plt
+import click
 
 categories_no_duplicates = []
 categories = []
@@ -36,10 +37,9 @@ prd = {
 }
 products_df = pd.DataFrame(prd)
 
-for i in categories_no_duplicates:
+for i in categories_no_duplicates[:5]:
     products_df_by_cate = products_df.loc[products_df['categories'] == i, :]
     products_df_by_cate = products_df_by_cate.sort_values(by=['prices'])
-    products_df_by_cate = products_df_by_cate.head(50)
     fig, ax1 = plt.subplots()
     ax2 = ax1.twinx()
     ax1.scatter(products_df_by_cate['prices'], products_df_by_cate['rating'], label='rating', s=25)
@@ -50,4 +50,9 @@ for i in categories_no_duplicates:
     plt.legend()
     plt.title(i)
     ax1.legend(loc=0)
-plt.show()
+    fig.show()
+    if click.confirm('Do you want to continue?', default=True):
+        plt.close(fig=fig)
+    else:
+        plt.close(fig=fig)
+        break
