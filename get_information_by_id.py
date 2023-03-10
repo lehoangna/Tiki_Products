@@ -5,7 +5,7 @@ import pymongo
 from requests.exceptions import ChunkedEncodingError
 from requests.exceptions import ConnectionError
 from crawl_data import products_id
-# id = ['11756216', '198350840']
+
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50',
 }

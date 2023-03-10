@@ -1,4 +1,3 @@
-import time
 import http
 from requests.exceptions import ChunkedEncodingError
 from requests.exceptions import ConnectionError
@@ -6,7 +5,6 @@ from bs4 import BeautifulSoup
 import requests
 
 FIRST_PAGE = 1
-LAST_PAGE = 51
 
 categories = []
 products_id = []
@@ -40,6 +38,7 @@ def getCategoryMarket():
             break
         item_count+=1
 
+# get 40 products in one page of any category
 def getProductInOnePage(category_link, pagination):
     pagination = str(pagination)
     page = 'https://tiki.vn/api/personalish/v1/blocks/listings?limit=40&include=advertisement&aggregations=2&trackity_id=9f0706eb-cddc-44cf-3333-67df659d9c40&category='+category_link+'&page='+pagination
@@ -54,6 +53,8 @@ def getProductInOnePage(category_link, pagination):
 
 getCategory()
 getCategoryMarket()
+
+# loop through all category that can handle
 for category in categories:
     page = 'https://tiki.vn/api/personalish/v1/blocks/listings?limit=40&include=advertisement&aggregations=2&trackity_id=9f0706eb-cddc-44cf-3333-67df659d9c40&category=' + category + '&page=1'
     with requests.get(page, headers=HEADERS) as response:

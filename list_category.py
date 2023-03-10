@@ -18,6 +18,7 @@ for product in products:
         else:
             product_by_category[category] = 1
 
+# write to file
 with open('count_category.txt', 'w', encoding='utf-8') as f:
     for key, value in product_by_category.items():
         f.write(key + ": " + str(value)+'\n')
